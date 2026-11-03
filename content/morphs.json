@@ -1,0 +1,56 @@
+{
+ "wolf": {
+  "name": "影狼化身",
+  "sprite": "mon_plains_wolf~h0~s0.55~b0.6",
+  "level": 15,
+  "atk": 0.08,
+  "speed": 0.3,
+  "ms": 1800000,
+  "desc": "化身影狼，移動速度 +30%、攻擊 +8%。"
+ },
+ "treant": {
+  "name": "樹王化身",
+  "sprite": "mon_bark_treant~h40~s1.25~b1",
+  "level": 20,
+  "atk": 0.12,
+  "speed": 0,
+  "ms": 1800000,
+  "desc": "化身古樹之王，攻擊 +12%。"
+ },
+ "scorpion": {
+  "name": "蠍皇化身",
+  "sprite": "mon_dune_scorpion~h-50~s1.3~b0.95",
+  "level": 30,
+  "atk": 0.18,
+  "speed": 0.05,
+  "ms": 1800000,
+  "desc": "化身蠍皇，攻擊 +18%、移速 +5%。"
+ },
+ "knight": {
+  "name": "墓騎化身",
+  "sprite": "mon_grave_knight",
+  "level": 38,
+  "atk": 0.22,
+  "speed": 0.1,
+  "ms": 1800000,
+  "desc": "化身墓穴騎士，攻擊 +22%、移速 +10%。"
+ },
+ "dragon": {
+  "name": "飛龍化身",
+  "sprite": "mon_slate_wyvern~h170~s1.5~b1.1",
+  "level": 46,
+  "atk": 0.28,
+  "speed": 0.15,
+  "ms": 1800000,
+  "desc": "化身雷翼飛龍，攻擊 +28%、移速 +15%。"
+ },
+ "fiend": {
+  "name": "黯翼化身",
+  "sprite": "mon_gloom_fiend",
+  "level": 52,
+  "atk": 0.32,
+  "speed": 0.2,
+  "ms": 1800000,
+  "desc": "化身黯翼魔，攻擊 +32%、移速 +20%。"
+ }
+}

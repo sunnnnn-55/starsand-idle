@@ -1,0 +1,107 @@
+[
+ {
+  "map": "town",
+  "x": 22,
+  "y": 25,
+  "cost": 0,
+  "level": 1
+ },
+ {
+  "map": "meadow",
+  "x": 6,
+  "y": 32,
+  "cost": 31,
+  "level": 1
+ },
+ {
+  "map": "mine",
+  "x": 7,
+  "y": 30,
+  "cost": 120,
+  "level": 10
+ },
+ {
+  "map": "snow",
+  "x": 6,
+  "y": 32,
+  "cost": 466,
+  "level": 22
+ },
+ {
+  "map": "abyss",
+  "x": 30,
+  "y": 52,
+  "cost": 1133,
+  "level": 35
+ },
+ {
+  "map": "city",
+  "x": 28,
+  "y": 50,
+  "cost": 88,
+  "level": 8
+ },
+ {
+  "map": "forest",
+  "x": 7,
+  "y": 30,
+  "cost": 88,
+  "level": 8
+ },
+ {
+  "map": "swamp",
+  "x": 7,
+  "y": 30,
+  "cost": 260,
+  "level": 16
+ },
+ {
+  "map": "mine2",
+  "x": 7,
+  "y": 30,
+  "cost": 390,
+  "level": 20
+ },
+ {
+  "map": "mine3",
+  "x": 7,
+  "y": 30,
+  "cost": 736,
+  "level": 28
+ },
+ {
+  "map": "desert",
+  "x": 7,
+  "y": 30,
+  "cost": 840,
+  "level": 30
+ },
+ {
+  "map": "catacomb",
+  "x": 7,
+  "y": 30,
+  "cost": 1196,
+  "level": 36
+ },
+ {
+  "map": "catacomb2",
+  "x": 7,
+  "y": 30,
+  "cost": 1772,
+  "level": 44
+ },
+ {
+  "map": "peak",
+  "x": 7,
+  "y": 30,
+  "cost": 1934,
+  "level": 46
+ },
+ {
+  "map": "fortress",
+  "x": 30,
+  "y": 52,
+  "cost": 2280,
+  "level": 50
+ }
+]

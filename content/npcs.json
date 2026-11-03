@@ -1,0 +1,144 @@
+{
+ "merchant": {
+  "name": "琥珀",
+  "title": "雜貨商人",
+  "sprite": "npc_merchant",
+  "greet": "旅人你好！藥水、卷軸、強化石應有盡有，也收購各種素材喔。",
+  "shop": "general"
+ },
+ "smith": {
+  "name": "鐵砧",
+  "title": "鍛造師",
+  "sprite": "npc_smith",
+  "greet": "想要更強的裝備？我這裡有好貨，也能幫你用星砂強化石強化。",
+  "shop": "smith",
+  "enhance": true
+ },
+ "elder": {
+  "name": "賽蘭長老",
+  "title": "村長",
+  "sprite": "npc_elder",
+  "greet": "晨曦村需要勇者的幫助。看看我這裡的委託吧。",
+  "quests": true
+ },
+ "teleporter": {
+  "name": "星語",
+  "title": "傳送術士",
+  "sprite": "npc_teleporter",
+  "greet": "星砂的力量能帶你到遠方。要去哪裡呢？",
+  "teleport": true
+ },
+ "guard": {
+  "name": "布雷克",
+  "title": "村莊守衛",
+  "sprite": "npc_guard",
+  "greet": "外頭的怪物越來越多了，出門記得帶夠藥水。",
+  "quests": true,
+  "lines": [
+   "草原的巨角豬王每隔一段時間就會出現。",
+   "聽說礦坑深處有紫色的巨像在遊蕩。"
+  ]
+ },
+ "herald": {
+  "name": "艾德溫",
+  "title": "港都傳令官",
+  "sprite": "npc_guard~h200~s1~b1",
+  "greet": "銀帆港都歡迎你，勇者。王國的危機正在擴大，主線委託都在我這裡。",
+  "quests": true
+ },
+ "city_tele": {
+  "name": "月弦",
+  "title": "港都傳送師",
+  "sprite": "npc_teleporter~h60~s1~b1",
+  "greet": "港都的傳送陣連結整片大陸，想去哪都行。",
+  "teleport": true
+ },
+ "city_merchant": {
+  "name": "貝菈",
+  "title": "港都雜貨商",
+  "sprite": "npc_merchant~h160~s1~b1",
+  "greet": "新到的強化藥水！狩獵前來一瓶吧。",
+  "shop": "city_general"
+ },
+ "armorer": {
+  "name": "岩盾",
+  "title": "防具商",
+  "sprite": "npc_smith~h200~s0.8~b1",
+  "greet": "好的防具是活命的本錢。",
+  "shop": "city_armor",
+  "quests": true
+ },
+ "jeweler": {
+  "name": "薇歐蕾",
+  "title": "珠寶商",
+  "sprite": "npc_merchant~h280~s1~b1",
+  "greet": "指環與護符能讓你的力量更上一層。",
+  "shop": "city_jewel",
+  "quests": true
+ },
+ "city_smith": {
+  "name": "赫爾加",
+  "title": "港都鍛造師",
+  "sprite": "npc_smith~h30~s1.2~b1",
+  "greet": "武器交給我，強化也交給我。高強化有風險，記得帶守護之符。",
+  "shop": "city_weapons",
+  "enhance": true,
+  "quests": true
+ },
+ "warehouse": {
+  "name": "老倉",
+  "title": "倉庫管理員",
+  "sprite": "npc_elder~h100~s0.6~b1",
+  "greet": "你的東西放我這裡最安全，同帳號角色都能取用。",
+  "warehouse": true
+ },
+ "crafter": {
+  "name": "妮可",
+  "title": "工匠",
+  "sprite": "npc_merchant~h60~s0.9~b1",
+  "greet": "把素材交給我，我能做出藥水、強化石甚至裝備！",
+  "craft": true,
+  "quests": true
+ },
+ "guild_master": {
+  "name": "雷恩",
+  "title": "誓盟管理官",
+  "sprite": "npc_guard~h300~s1.1~b1",
+  "greet": "想組建自己的誓盟？Lv20 以上、繳交 10,000 金幣即可。",
+  "guild": true
+ },
+ "mentor": {
+  "name": "瑟琳娜",
+  "title": "職業導師",
+  "sprite": "npc_elder~h260~s1.1~b1",
+  "greet": "當你足夠強大，就帶著試煉的證明來找我進行轉職與覺醒。",
+  "advance": true,
+  "quests": true
+ },
+ "tamer": {
+  "name": "小芽",
+  "title": "靈寵師",
+  "sprite": "npc_teleporter~h130~s1~b1",
+  "greet": "想要一個可愛又可靠的夥伴嗎？",
+  "shop": "city_pets",
+  "pets": true,
+  "quests": true
+ },
+ "morph_sage": {
+  "name": "幻影",
+  "title": "幻形術士",
+  "sprite": "npc_teleporter~h280~s1.2~b0.8",
+  "greet": "幻形卷軸能讓你暫時化身為怪物，獲得牠們的力量。",
+  "shop": "city_scrolls",
+  "morph": true,
+  "quests": true
+ },
+ "bounty": {
+  "name": "鐵牙",
+  "title": "懸賞官",
+  "sprite": "npc_guard~h30~s0.9~b0.9",
+  "greet": "每天都有新的懸賞，完成就有好處拿。",
+  "daily": true,
+  "quests": true
+ }
+}

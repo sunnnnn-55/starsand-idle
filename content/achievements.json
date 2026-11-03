@@ -1,0 +1,142 @@
+{
+ "a_kill1": {
+  "name": "初次狩獵",
+  "desc": "擊敗第一隻怪物",
+  "kind": "kills",
+  "n": 1,
+  "gold": 20
+ },
+ "a_kill100": {
+  "name": "百戰獵人",
+  "desc": "累計擊敗 100 隻怪物",
+  "kind": "kills",
+  "n": 100,
+  "gold": 500
+ },
+ "a_kill1000": {
+  "name": "千斬之刃",
+  "desc": "累計擊敗 1000 隻怪物",
+  "kind": "kills",
+  "n": 1000,
+  "gold": 5000
+ },
+ "a_lv10": {
+  "name": "嶄露頭角",
+  "desc": "達到 10 級",
+  "kind": "level",
+  "n": 10,
+  "gold": 300
+ },
+ "a_lv25": {
+  "name": "老練冒險者",
+  "desc": "達到 25 級",
+  "kind": "level",
+  "n": 25,
+  "gold": 2000
+ },
+ "a_lv40": {
+  "name": "傳說之路",
+  "desc": "達到 40 級",
+  "kind": "level",
+  "n": 40,
+  "gold": 10000
+ },
+ "a_boss": {
+  "name": "屠王者",
+  "desc": "擊敗任一首領",
+  "kind": "boss",
+  "n": 1,
+  "gold": 1000
+ },
+ "a_enh7": {
+  "name": "星砂工匠",
+  "desc": "將裝備強化至 +7",
+  "kind": "enhance",
+  "n": 7,
+  "gold": 3000
+ },
+ "a_party": {
+  "name": "並肩作戰",
+  "desc": "加入隊伍",
+  "kind": "party",
+  "n": 1,
+  "gold": 100
+ },
+ "a_trade": {
+  "name": "公平交易",
+  "desc": "完成一次玩家交易",
+  "kind": "trade",
+  "n": 1,
+  "gold": 100
+ },
+ "a_quest5": {
+  "name": "熱心助人",
+  "desc": "完成 5 個任務",
+  "kind": "quests",
+  "n": 5,
+  "gold": 800
+ },
+ "a_legend": {
+  "name": "傳說降臨",
+  "desc": "獲得傳說品質裝備",
+  "kind": "legend",
+  "n": 1,
+  "gold": 5000
+ },
+ "a_kill5000": {
+  "name": "萬軍斬將",
+  "desc": "累計擊敗 5000 隻怪物",
+  "kind": "kills",
+  "n": 5000,
+  "gold": 30000
+ },
+ "a_lv50": {
+  "name": "名震大陸",
+  "desc": "達到 50 級",
+  "kind": "level",
+  "n": 50,
+  "gold": 50000
+ },
+ "a_lv60": {
+  "name": "巔峰之境",
+  "desc": "達到 60 級",
+  "kind": "level",
+  "n": 60,
+  "gold": 200000
+ },
+ "a_boss10": {
+  "name": "首領剋星",
+  "desc": "累計擊敗 10 隻首領",
+  "kind": "boss",
+  "n": 10,
+  "gold": 20000
+ },
+ "a_enh9": {
+  "name": "傳奇鍛造",
+  "desc": "將裝備強化至 +9",
+  "kind": "enhance",
+  "n": 9,
+  "gold": 30000
+ },
+ "a_quest20": {
+  "name": "王國之友",
+  "desc": "完成 20 個任務",
+  "kind": "quests",
+  "n": 20,
+  "gold": 15000
+ },
+ "a_quest40": {
+  "name": "王國英雄",
+  "desc": "完成 40 個任務",
+  "kind": "quests",
+  "n": 40,
+  "gold": 60000
+ },
+ "a_gold": {
+  "name": "富甲一方",
+  "desc": "持有 1,000,000 金幣",
+  "kind": "gold",
+  "n": 1000000,
+  "gold": 10000
+ }
+}

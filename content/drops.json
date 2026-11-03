@@ -1,0 +1,10812 @@
+{
+ "dew_jelly": [
+  {
+   "item": "m_jelly",
+   "chance": 0.6,
+   "max": 2
+  },
+  {
+   "item": "p_hp",
+   "chance": 0.12,
+   "min": 1,
+   "max": 2
+  },
+  {
+   "item": "p_mp",
+   "chance": 0.08
+  },
+  {
+   "item": "w_sword0",
+   "chance": 0.0053
+  },
+  {
+   "item": "w_staff0",
+   "chance": 0.0053
+  },
+  {
+   "item": "w_bow0",
+   "chance": 0.0053
+  },
+  {
+   "item": "a_war0",
+   "chance": 0.0053
+  },
+  {
+   "item": "a_mag0",
+   "chance": 0.0053
+  },
+  {
+   "item": "a_arc0",
+   "chance": 0.0053
+  },
+  {
+   "item": "h_iron",
+   "chance": 0.0053
+  },
+  {
+   "item": "b_leather",
+   "chance": 0.0053
+  },
+  {
+   "item": "w_mace0",
+   "chance": 0.0053
+  },
+  {
+   "item": "w_dagger0",
+   "chance": 0.0053
+  },
+  {
+   "item": "w_scythe0",
+   "chance": 0.0053
+  },
+  {
+   "item": "a_cle0",
+   "chance": 0.0053
+  },
+  {
+   "item": "a_rog0",
+   "chance": 0.0053
+  },
+  {
+   "item": "a_wlk0",
+   "chance": 0.0053
+  },
+  {
+   "item": "h_leather",
+   "chance": 0.0053
+  },
+  {
+   "item": "b_straw",
+   "chance": 0.0053
+  },
+  {
+   "item": "r_copper",
+   "chance": 0.0053
+  },
+  {
+   "item": "n_bead",
+   "chance": 0.0053
+  }
+ ],
+ "thorn_boar": [
+  {
+   "item": "m_tusk",
+   "chance": 0.55
+  },
+  {
+   "item": "p_hp",
+   "chance": 0.12,
+   "min": 1,
+   "max": 2
+  },
+  {
+   "item": "p_mp",
+   "chance": 0.08
+  },
+  {
+   "item": "w_sword0",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_staff0",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_bow0",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_war0",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_mag0",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_arc0",
+   "chance": 0.0031
+  },
+  {
+   "item": "h_iron",
+   "chance": 0.0031
+  },
+  {
+   "item": "b_leather",
+   "chance": 0.0031
+  },
+  {
+   "item": "r_ruby",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_sword4",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_staff4",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_bow4",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_mace0",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_mace1",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_dagger0",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_dagger1",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_scythe0",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_scythe1",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_war3",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_mag3",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_arc3",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_cle0",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_cle1",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_rog0",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_rog1",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_wlk0",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_wlk1",
+   "chance": 0.0031
+  },
+  {
+   "item": "h_leather",
+   "chance": 0.0031
+  },
+  {
+   "item": "b_straw",
+   "chance": 0.0031
+  },
+  {
+   "item": "r_copper",
+   "chance": 0.0031
+  },
+  {
+   "item": "n_bead",
+   "chance": 0.0031
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.01
+  }
+ ],
+ "bloom_shroom": [
+  {
+   "item": "m_cap",
+   "chance": 0.55
+  },
+  {
+   "item": "p_hp",
+   "chance": 0.12,
+   "min": 1,
+   "max": 2
+  },
+  {
+   "item": "p_mp",
+   "chance": 0.08
+  },
+  {
+   "item": "w_sword0",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_sword1",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_staff0",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_staff1",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_bow0",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_bow1",
+   "chance": 0.0024
+  },
+  {
+   "item": "a_war0",
+   "chance": 0.0024
+  },
+  {
+   "item": "a_mag0",
+   "chance": 0.0024
+  },
+  {
+   "item": "a_arc0",
+   "chance": 0.0024
+  },
+  {
+   "item": "h_iron",
+   "chance": 0.0024
+  },
+  {
+   "item": "b_leather",
+   "chance": 0.0024
+  },
+  {
+   "item": "r_ruby",
+   "chance": 0.0024
+  },
+  {
+   "item": "n_jade",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_sword4",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_staff4",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_bow4",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_mace0",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_mace1",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_mace2",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_dagger0",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_dagger1",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_dagger2",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_scythe0",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_scythe1",
+   "chance": 0.0024
+  },
+  {
+   "item": "w_scythe2",
+   "chance": 0.0024
+  },
+  {
+   "item": "a_war3",
+   "chance": 0.0024
+  },
+  {
+   "item": "a_mag3",
+   "chance": 0.0024
+  },
+  {
+   "item": "a_arc3",
+   "chance": 0.0024
+  },
+  {
+   "item": "a_cle0",
+   "chance": 0.0024
+  },
+  {
+   "item": "a_cle1",
+   "chance": 0.0024
+  },
+  {
+   "item": "a_rog0",
+   "chance": 0.0024
+  },
+  {
+   "item": "a_rog1",
+   "chance": 0.0024
+  },
+  {
+   "item": "a_wlk0",
+   "chance": 0.0024
+  },
+  {
+   "item": "a_wlk1",
+   "chance": 0.0024
+  },
+  {
+   "item": "h_leather",
+   "chance": 0.0024
+  },
+  {
+   "item": "b_straw",
+   "chance": 0.0024
+  },
+  {
+   "item": "r_copper",
+   "chance": 0.0024
+  },
+  {
+   "item": "r_fang",
+   "chance": 0.0024
+  },
+  {
+   "item": "n_bead",
+   "chance": 0.0024
+  },
+  {
+   "item": "n_fang",
+   "chance": 0.0024
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.015
+  }
+ ],
+ "plains_wolf": [
+  {
+   "item": "m_pelt",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp",
+   "chance": 0.12,
+   "min": 1,
+   "max": 2
+  },
+  {
+   "item": "p_mp",
+   "chance": 0.08
+  },
+  {
+   "item": "w_sword1",
+   "chance": 0.0032
+  },
+  {
+   "item": "w_staff1",
+   "chance": 0.0032
+  },
+  {
+   "item": "w_bow1",
+   "chance": 0.0032
+  },
+  {
+   "item": "h_iron",
+   "chance": 0.0032
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.0032
+  },
+  {
+   "item": "b_leather",
+   "chance": 0.0032
+  },
+  {
+   "item": "r_ruby",
+   "chance": 0.0032
+  },
+  {
+   "item": "n_jade",
+   "chance": 0.0032
+  },
+  {
+   "item": "w_sword4",
+   "chance": 0.0032
+  },
+  {
+   "item": "w_staff4",
+   "chance": 0.0032
+  },
+  {
+   "item": "w_bow4",
+   "chance": 0.0032
+  },
+  {
+   "item": "w_mace1",
+   "chance": 0.0032
+  },
+  {
+   "item": "w_mace2",
+   "chance": 0.0032
+  },
+  {
+   "item": "w_dagger1",
+   "chance": 0.0032
+  },
+  {
+   "item": "w_dagger2",
+   "chance": 0.0032
+  },
+  {
+   "item": "w_scythe1",
+   "chance": 0.0032
+  },
+  {
+   "item": "w_scythe2",
+   "chance": 0.0032
+  },
+  {
+   "item": "a_war3",
+   "chance": 0.0032
+  },
+  {
+   "item": "a_mag3",
+   "chance": 0.0032
+  },
+  {
+   "item": "a_arc3",
+   "chance": 0.0032
+  },
+  {
+   "item": "a_cle1",
+   "chance": 0.0032
+  },
+  {
+   "item": "a_rog1",
+   "chance": 0.0032
+  },
+  {
+   "item": "a_wlk1",
+   "chance": 0.0032
+  },
+  {
+   "item": "r_fang",
+   "chance": 0.0032
+  },
+  {
+   "item": "n_fang",
+   "chance": 0.0032
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.02
+  },
+  {
+   "item": "s_morph_wolf",
+   "chance": 0.004
+  }
+ ],
+ "horn_boar_king": [
+  {
+   "item": "m_crown",
+   "chance": 1
+  },
+  {
+   "item": "st_enh",
+   "chance": 1,
+   "min": 2,
+   "max": 4
+  },
+  {
+   "item": "st_bless",
+   "chance": 0.25
+  },
+  {
+   "item": "w_sword1",
+   "chance": 0.04
+  },
+  {
+   "item": "w_staff1",
+   "chance": 0.04
+  },
+  {
+   "item": "w_bow1",
+   "chance": 0.04
+  },
+  {
+   "item": "a_war1",
+   "chance": 0.04
+  },
+  {
+   "item": "a_mag1",
+   "chance": 0.04
+  },
+  {
+   "item": "a_arc1",
+   "chance": 0.04
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.04
+  },
+  {
+   "item": "r_ruby",
+   "chance": 0.04
+  },
+  {
+   "item": "n_jade",
+   "chance": 0.04
+  },
+  {
+   "item": "w_mace2",
+   "chance": 0.04
+  },
+  {
+   "item": "w_dagger2",
+   "chance": 0.04
+  },
+  {
+   "item": "w_scythe2",
+   "chance": 0.04
+  },
+  {
+   "item": "a_war3",
+   "chance": 0.04
+  },
+  {
+   "item": "a_mag3",
+   "chance": 0.04
+  },
+  {
+   "item": "a_arc3",
+   "chance": 0.04
+  },
+  {
+   "item": "a_cle1",
+   "chance": 0.04
+  },
+  {
+   "item": "a_cle2",
+   "chance": 0.04
+  },
+  {
+   "item": "a_rog1",
+   "chance": 0.04
+  },
+  {
+   "item": "a_rog2",
+   "chance": 0.04
+  },
+  {
+   "item": "a_wlk1",
+   "chance": 0.04
+  },
+  {
+   "item": "a_wlk2",
+   "chance": 0.04
+  },
+  {
+   "item": "b_spike",
+   "chance": 0.04
+  },
+  {
+   "item": "r_fang",
+   "chance": 0.04
+  },
+  {
+   "item": "n_fang",
+   "chance": 0.04
+  },
+  {
+   "item": "p_hp2",
+   "chance": 1,
+   "min": 3,
+   "max": 5
+  }
+ ],
+ "ash_bat": [
+  {
+   "item": "m_wing",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp",
+   "chance": 0.12,
+   "min": 1,
+   "max": 2
+  },
+  {
+   "item": "p_mp",
+   "chance": 0.08
+  },
+  {
+   "item": "w_sword1",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_staff1",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_bow1",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_war1",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_mag1",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_arc1",
+   "chance": 0.0018
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.0018
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0018
+  },
+  {
+   "item": "r_ruby",
+   "chance": 0.0018
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0018
+  },
+  {
+   "item": "n_jade",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_mace2",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_dagger2",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_scythe2",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_war3",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_mag3",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_arc3",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_cle1",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_cle2",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_rog1",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_rog2",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_wlk1",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_wlk2",
+   "chance": 0.0018
+  },
+  {
+   "item": "b_spike",
+   "chance": 0.0018
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0018
+  },
+  {
+   "item": "r_fang",
+   "chance": 0.0018
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0018
+  },
+  {
+   "item": "n_fang",
+   "chance": 0.0018
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.0018
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.02
+  }
+ ],
+ "cave_spider": [
+  {
+   "item": "m_silk",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp",
+   "chance": 0.12,
+   "min": 1,
+   "max": 2
+  },
+  {
+   "item": "p_mp",
+   "chance": 0.08
+  },
+  {
+   "item": "w_sword1",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_staff1",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_bow1",
+   "chance": 0.0025
+  },
+  {
+   "item": "a_war1",
+   "chance": 0.0025
+  },
+  {
+   "item": "a_mag1",
+   "chance": 0.0025
+  },
+  {
+   "item": "a_arc1",
+   "chance": 0.0025
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.0025
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0025
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0025
+  },
+  {
+   "item": "n_jade",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_mace2",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_dagger2",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_scythe2",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0025
+  },
+  {
+   "item": "a_cle2",
+   "chance": 0.0025
+  },
+  {
+   "item": "a_rog2",
+   "chance": 0.0025
+  },
+  {
+   "item": "a_wlk2",
+   "chance": 0.0025
+  },
+  {
+   "item": "b_spike",
+   "chance": 0.0025
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0025
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0025
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.0025
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.02
+  }
+ ],
+ "ore_golem": [
+  {
+   "item": "m_ore",
+   "chance": 0.6,
+   "max": 2
+  },
+  {
+   "item": "p_hp",
+   "chance": 0.12,
+   "min": 1,
+   "max": 2
+  },
+  {
+   "item": "p_mp",
+   "chance": 0.08
+  },
+  {
+   "item": "w_sword1",
+   "chance": 0.003
+  },
+  {
+   "item": "w_staff1",
+   "chance": 0.003
+  },
+  {
+   "item": "w_bow1",
+   "chance": 0.003
+  },
+  {
+   "item": "a_war1",
+   "chance": 0.003
+  },
+  {
+   "item": "a_mag1",
+   "chance": 0.003
+  },
+  {
+   "item": "a_arc1",
+   "chance": 0.003
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.003
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.003
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.003
+  },
+  {
+   "item": "n_jade",
+   "chance": 0.003
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.003
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.003
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.003
+  },
+  {
+   "item": "w_mace2",
+   "chance": 0.003
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.003
+  },
+  {
+   "item": "w_dagger2",
+   "chance": 0.003
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.003
+  },
+  {
+   "item": "w_scythe2",
+   "chance": 0.003
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.003
+  },
+  {
+   "item": "a_cle2",
+   "chance": 0.003
+  },
+  {
+   "item": "a_rog2",
+   "chance": 0.003
+  },
+  {
+   "item": "a_wlk2",
+   "chance": 0.003
+  },
+  {
+   "item": "b_spike",
+   "chance": 0.003
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.003
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.003
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.003
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.003
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.03
+  }
+ ],
+ "skeleton_miner": [
+  {
+   "item": "m_bone",
+   "chance": 0.5
+  },
+  {
+   "item": "m_ore",
+   "chance": 0.2
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.0021
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.0021
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.0021
+  },
+  {
+   "item": "a_war1",
+   "chance": 0.0021
+  },
+  {
+   "item": "a_mag1",
+   "chance": 0.0021
+  },
+  {
+   "item": "a_arc1",
+   "chance": 0.0021
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.0021
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0021
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0021
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0021
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0021
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0021
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0021
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.0021
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0021
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.0021
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0021
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.0021
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.0021
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.0021
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.0021
+  },
+  {
+   "item": "a_cle2",
+   "chance": 0.0021
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.0021
+  },
+  {
+   "item": "a_rog2",
+   "chance": 0.0021
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.0021
+  },
+  {
+   "item": "a_wlk2",
+   "chance": 0.0021
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.0021
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.0021
+  },
+  {
+   "item": "b_spike",
+   "chance": 0.0021
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0021
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0021
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.0021
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.0021
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.0021
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.03
+  }
+ ],
+ "crystal_golem": [
+  {
+   "item": "m_crystal",
+   "chance": 1,
+   "min": 2,
+   "max": 4
+  },
+  {
+   "item": "st_enh",
+   "chance": 1,
+   "min": 3,
+   "max": 5
+  },
+  {
+   "item": "st_bless",
+   "chance": 0.35
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.048
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.048
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.048
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.048
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.048
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.048
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.048
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.048
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.048
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.048
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.048
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.048
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.048
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.048
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.048
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.048
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.048
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.048
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.048
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.048
+  }
+ ],
+ "snow_wolf": [
+  {
+   "item": "m_wpelt",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0018
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0018
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0018
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0018
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0018
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.0018
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0018
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0018
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.0018
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0018
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.0018
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0018
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.03
+  }
+ ],
+ "ice_wisp": [
+  {
+   "item": "m_core",
+   "chance": 0.45
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0018
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0018
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0018
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0018
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.0018
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.0018
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0018
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.0018
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0018
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0018
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.0018
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0018
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.0018
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0018
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.035
+  }
+ ],
+ "frost_yeti": [
+  {
+   "item": "m_yeti",
+   "chance": 0.5
+  },
+  {
+   "item": "m_core",
+   "chance": 0.15
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0031
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0031
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0031
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0031
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0031
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0031
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0031
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0031
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0031
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.04
+  }
+ ],
+ "frost_wolf_king": [
+  {
+   "item": "m_wpelt",
+   "chance": 1,
+   "min": 4,
+   "max": 6
+  },
+  {
+   "item": "st_enh",
+   "chance": 1,
+   "min": 5,
+   "max": 8
+  },
+  {
+   "item": "st_bless",
+   "chance": 0.6,
+   "max": 2
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.04
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.04
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.04
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.04
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.04
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.04
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.04
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.04
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.04
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.04
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.04
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.04
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.04
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.04
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.04
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.04
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.04
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.04
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.04
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.04
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.04
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.04
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.04
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.04
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.04
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.04
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.04
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.04
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.04
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.04
+  },
+  {
+   "item": "p_elixir",
+   "chance": 0.5
+  },
+  {
+   "item": "s_morph_wolf",
+   "chance": 0.3
+  },
+  {
+   "item": "st_guard",
+   "chance": 0.3
+  }
+ ],
+ "lava_slime": [
+  {
+   "item": "m_gel",
+   "chance": 0.55
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.0023
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.0023
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.0023
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0023
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0023
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0023
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0023
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0023
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0023
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0023
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0023
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0023
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.0023
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0023
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.0023
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0023
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.0023
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0023
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0023
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0023
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0023
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.0023
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.0023
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0023
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.0023
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0023
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.0023
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0023
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.04
+  }
+ ],
+ "fire_imp": [
+  {
+   "item": "m_ember",
+   "chance": 0.45
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.0025
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0025
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0025
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0025
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0025
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.0025
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0025
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0025
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0025
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0025
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.0025
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.0025
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0025
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.0025
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.0025
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0025
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.045
+  }
+ ],
+ "magma_elemental": [
+  {
+   "item": "m_ember",
+   "chance": 0.5,
+   "max": 2
+  },
+  {
+   "item": "m_gel",
+   "chance": 0.3
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0037
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0037
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0037
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.0037
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.0037
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0037
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.0037
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.0037
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0037
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.05
+  }
+ ],
+ "ember_dragon": [
+  {
+   "item": "m_scale",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_heart",
+   "chance": 0.3
+  },
+  {
+   "item": "st_enh",
+   "chance": 1,
+   "min": 8,
+   "max": 12
+  },
+  {
+   "item": "st_bless",
+   "chance": 1,
+   "min": 1,
+   "max": 3
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.0769
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.0769
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.0769
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0769
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0769
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0769
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0769
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0769
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0769
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0769
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0769
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.0769
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0769
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.0769
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0769
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.0769
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0769
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0769
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0769
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0769
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.0769
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.0769
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0769
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.0769
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.0769
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0769
+  },
+  {
+   "item": "p_elixir",
+   "chance": 1,
+   "min": 2,
+   "max": 3
+  },
+  {
+   "item": "st_guard",
+   "chance": 0.6
+  },
+  {
+   "item": "s_morph_dragon",
+   "chance": 0.15
+  }
+ ],
+ "forest_jelly": [
+  {
+   "item": "m_moss",
+   "chance": 0.6
+  },
+  {
+   "item": "p_hp",
+   "chance": 0.12,
+   "min": 1,
+   "max": 2
+  },
+  {
+   "item": "p_mp",
+   "chance": 0.08
+  },
+  {
+   "item": "w_sword0",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_staff0",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_bow0",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_war0",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_mag0",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_arc0",
+   "chance": 0.0029
+  },
+  {
+   "item": "h_iron",
+   "chance": 0.0029
+  },
+  {
+   "item": "b_leather",
+   "chance": 0.0029
+  },
+  {
+   "item": "r_ruby",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_sword4",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_staff4",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_bow4",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_mace0",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_mace1",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_dagger0",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_dagger1",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_scythe0",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_scythe1",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_war3",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_mag3",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_arc3",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_cle0",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_cle1",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_rog0",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_rog1",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_wlk0",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_wlk1",
+   "chance": 0.0029
+  },
+  {
+   "item": "h_leather",
+   "chance": 0.0029
+  },
+  {
+   "item": "b_straw",
+   "chance": 0.0029
+  },
+  {
+   "item": "r_copper",
+   "chance": 0.0029
+  },
+  {
+   "item": "r_fang",
+   "chance": 0.0029
+  },
+  {
+   "item": "n_bead",
+   "chance": 0.0029
+  },
+  {
+   "item": "n_fang",
+   "chance": 0.0029
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.025
+  },
+  {
+   "item": "p_swift",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "shade_wolf": [
+  {
+   "item": "m_shade",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp",
+   "chance": 0.12,
+   "min": 1,
+   "max": 2
+  },
+  {
+   "item": "p_mp",
+   "chance": 0.08
+  },
+  {
+   "item": "w_sword1",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_staff1",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_bow1",
+   "chance": 0.0038
+  },
+  {
+   "item": "h_iron",
+   "chance": 0.0038
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.0038
+  },
+  {
+   "item": "b_leather",
+   "chance": 0.0038
+  },
+  {
+   "item": "r_ruby",
+   "chance": 0.0038
+  },
+  {
+   "item": "n_jade",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_sword4",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_staff4",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_bow4",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_mace1",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_mace2",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_dagger1",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_dagger2",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_scythe1",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_scythe2",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_war3",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_mag3",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_arc3",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_cle1",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_rog1",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_wlk1",
+   "chance": 0.0038
+  },
+  {
+   "item": "r_fang",
+   "chance": 0.0038
+  },
+  {
+   "item": "n_fang",
+   "chance": 0.0038
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.027
+  },
+  {
+   "item": "p_iron",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "gloom_shroom": [
+  {
+   "item": "m_spore",
+   "chance": 0.55
+  },
+  {
+   "item": "p_hp",
+   "chance": 0.12,
+   "min": 1,
+   "max": 2
+  },
+  {
+   "item": "p_mp",
+   "chance": 0.08
+  },
+  {
+   "item": "w_sword1",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_staff1",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_bow1",
+   "chance": 0.0037
+  },
+  {
+   "item": "h_iron",
+   "chance": 0.0037
+  },
+  {
+   "item": "b_leather",
+   "chance": 0.0037
+  },
+  {
+   "item": "r_ruby",
+   "chance": 0.0037
+  },
+  {
+   "item": "n_jade",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_sword4",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_staff4",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_bow4",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_mace1",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_mace2",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_dagger1",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_dagger2",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_scythe1",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_scythe2",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_war3",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_mag3",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_arc3",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_cle1",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_rog1",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_wlk1",
+   "chance": 0.0037
+  },
+  {
+   "item": "r_copper",
+   "chance": 0.0037
+  },
+  {
+   "item": "r_fang",
+   "chance": 0.0037
+  },
+  {
+   "item": "n_bead",
+   "chance": 0.0037
+  },
+  {
+   "item": "n_fang",
+   "chance": 0.0037
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.026
+  },
+  {
+   "item": "p_haste",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "venom_spider": [
+  {
+   "item": "m_venom",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp",
+   "chance": 0.12,
+   "min": 1,
+   "max": 2
+  },
+  {
+   "item": "p_mp",
+   "chance": 0.08
+  },
+  {
+   "item": "w_sword1",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_staff1",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_bow1",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_war1",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_mag1",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_arc1",
+   "chance": 0.0031
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.0031
+  },
+  {
+   "item": "r_ruby",
+   "chance": 0.0031
+  },
+  {
+   "item": "n_jade",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_sword4",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_staff4",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_bow4",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_mace1",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_mace2",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_dagger1",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_dagger2",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_scythe1",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_scythe2",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_war3",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_mag3",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_arc3",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_cle1",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_cle2",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_rog1",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_rog2",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_wlk1",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_wlk2",
+   "chance": 0.0031
+  },
+  {
+   "item": "b_spike",
+   "chance": 0.0031
+  },
+  {
+   "item": "r_fang",
+   "chance": 0.0031
+  },
+  {
+   "item": "n_fang",
+   "chance": 0.0031
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.0031
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.028
+  },
+  {
+   "item": "p_swift",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "bark_treant": [
+  {
+   "item": "m_bark",
+   "chance": 0.6
+  },
+  {
+   "item": "p_hp",
+   "chance": 0.12,
+   "min": 1,
+   "max": 2
+  },
+  {
+   "item": "p_mp",
+   "chance": 0.08
+  },
+  {
+   "item": "w_sword1",
+   "chance": 0.003
+  },
+  {
+   "item": "w_staff1",
+   "chance": 0.003
+  },
+  {
+   "item": "w_bow1",
+   "chance": 0.003
+  },
+  {
+   "item": "a_war1",
+   "chance": 0.003
+  },
+  {
+   "item": "a_mag1",
+   "chance": 0.003
+  },
+  {
+   "item": "a_arc1",
+   "chance": 0.003
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.003
+  },
+  {
+   "item": "r_ruby",
+   "chance": 0.003
+  },
+  {
+   "item": "n_jade",
+   "chance": 0.003
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.003
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.003
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.003
+  },
+  {
+   "item": "w_mace2",
+   "chance": 0.003
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.003
+  },
+  {
+   "item": "w_dagger2",
+   "chance": 0.003
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.003
+  },
+  {
+   "item": "w_scythe2",
+   "chance": 0.003
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.003
+  },
+  {
+   "item": "a_war3",
+   "chance": 0.003
+  },
+  {
+   "item": "a_mag3",
+   "chance": 0.003
+  },
+  {
+   "item": "a_arc3",
+   "chance": 0.003
+  },
+  {
+   "item": "a_cle1",
+   "chance": 0.003
+  },
+  {
+   "item": "a_cle2",
+   "chance": 0.003
+  },
+  {
+   "item": "a_rog1",
+   "chance": 0.003
+  },
+  {
+   "item": "a_rog2",
+   "chance": 0.003
+  },
+  {
+   "item": "a_wlk1",
+   "chance": 0.003
+  },
+  {
+   "item": "a_wlk2",
+   "chance": 0.003
+  },
+  {
+   "item": "b_spike",
+   "chance": 0.003
+  },
+  {
+   "item": "r_fang",
+   "chance": 0.003
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.003
+  },
+  {
+   "item": "n_fang",
+   "chance": 0.003
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.003
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.03
+  },
+  {
+   "item": "p_brave",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  },
+  {
+   "item": "s_morph_treant",
+   "chance": 0.003
+  }
+ ],
+ "thorn_treant": [
+  {
+   "item": "m_thorn",
+   "chance": 0.5
+  },
+  {
+   "item": "m_bark",
+   "chance": 0.2
+  },
+  {
+   "item": "p_hp",
+   "chance": 0.12,
+   "min": 1,
+   "max": 2
+  },
+  {
+   "item": "p_mp",
+   "chance": 0.08
+  },
+  {
+   "item": "w_sword1",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_staff1",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_bow1",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_war1",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_mag1",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_arc1",
+   "chance": 0.0036
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.0036
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0036
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0036
+  },
+  {
+   "item": "n_jade",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_mace2",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_dagger2",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_scythe2",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_cle2",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_rog2",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_wlk2",
+   "chance": 0.0036
+  },
+  {
+   "item": "b_spike",
+   "chance": 0.0036
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0036
+  },
+  {
+   "item": "r_fang",
+   "chance": 0.0036
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0036
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.0036
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.031
+  },
+  {
+   "item": "p_focus",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "elder_treant": [
+  {
+   "item": "m_heartwood",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_bark",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "w_sword1",
+   "chance": 0.0857
+  },
+  {
+   "item": "w_staff1",
+   "chance": 0.0857
+  },
+  {
+   "item": "w_bow1",
+   "chance": 0.0857
+  },
+  {
+   "item": "a_war1",
+   "chance": 0.0857
+  },
+  {
+   "item": "a_mag1",
+   "chance": 0.0857
+  },
+  {
+   "item": "a_arc1",
+   "chance": 0.0857
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.0857
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0857
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0857
+  },
+  {
+   "item": "n_jade",
+   "chance": 0.0857
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0857
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0857
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0857
+  },
+  {
+   "item": "w_mace2",
+   "chance": 0.0857
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0857
+  },
+  {
+   "item": "w_dagger2",
+   "chance": 0.0857
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0857
+  },
+  {
+   "item": "w_scythe2",
+   "chance": 0.0857
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0857
+  },
+  {
+   "item": "a_cle2",
+   "chance": 0.0857
+  },
+  {
+   "item": "a_rog2",
+   "chance": 0.0857
+  },
+  {
+   "item": "a_wlk2",
+   "chance": 0.0857
+  },
+  {
+   "item": "b_spike",
+   "chance": 0.0857
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0857
+  },
+  {
+   "item": "r_fang",
+   "chance": 0.0857
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0857
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.0857
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.0857
+  },
+  {
+   "item": "st_enh",
+   "chance": 1,
+   "min": 8,
+   "max": 14
+  },
+  {
+   "item": "st_bless",
+   "chance": 1,
+   "max": 3
+  },
+  {
+   "item": "p_hp2",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_essence",
+   "chance": 1,
+   "max": 2
+  },
+  {
+   "item": "p_haste",
+   "chance": 0.5
+  },
+  {
+   "item": "st_guard",
+   "chance": 0.4
+  },
+  {
+   "item": "p_elixir",
+   "chance": 1,
+   "min": 1,
+   "max": 3
+  },
+  {
+   "item": "s_morph_treant",
+   "chance": 0.3
+  }
+ ],
+ "bog_toad": [
+  {
+   "item": "m_toadskin",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp",
+   "chance": 0.12,
+   "min": 1,
+   "max": 2
+  },
+  {
+   "item": "p_mp",
+   "chance": 0.08
+  },
+  {
+   "item": "w_sword1",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_staff1",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_bow1",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_war1",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_mag1",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_arc1",
+   "chance": 0.0038
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.0038
+  },
+  {
+   "item": "n_jade",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_mace2",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_dagger2",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_scythe2",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_cle2",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_rog2",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_wlk2",
+   "chance": 0.0038
+  },
+  {
+   "item": "b_spike",
+   "chance": 0.0038
+  },
+  {
+   "item": "r_fang",
+   "chance": 0.0038
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0038
+  },
+  {
+   "item": "n_fang",
+   "chance": 0.0038
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.0038
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.03
+  },
+  {
+   "item": "p_iron",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "mire_jelly": [
+  {
+   "item": "m_mud",
+   "chance": 0.6
+  },
+  {
+   "item": "p_hp",
+   "chance": 0.12,
+   "min": 1,
+   "max": 2
+  },
+  {
+   "item": "p_mp",
+   "chance": 0.08
+  },
+  {
+   "item": "w_sword1",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_staff1",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_bow1",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_war1",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_mag1",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_arc1",
+   "chance": 0.0036
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.0036
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0036
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0036
+  },
+  {
+   "item": "n_jade",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_mace2",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_dagger2",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_scythe2",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_cle2",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_rog2",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_wlk2",
+   "chance": 0.0036
+  },
+  {
+   "item": "b_spike",
+   "chance": 0.0036
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0036
+  },
+  {
+   "item": "r_fang",
+   "chance": 0.0036
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0036
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.0036
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.031
+  },
+  {
+   "item": "p_focus",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "rot_shroom": [
+  {
+   "item": "m_rot",
+   "chance": 0.55
+  },
+  {
+   "item": "p_hp",
+   "chance": 0.12,
+   "min": 1,
+   "max": 2
+  },
+  {
+   "item": "p_mp",
+   "chance": 0.08
+  },
+  {
+   "item": "w_sword1",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_staff1",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_bow1",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_war1",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_mag1",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_arc1",
+   "chance": 0.0037
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.0037
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0037
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0037
+  },
+  {
+   "item": "n_jade",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_mace2",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_dagger2",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_scythe2",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_cle2",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_rog2",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_wlk2",
+   "chance": 0.0037
+  },
+  {
+   "item": "b_spike",
+   "chance": 0.0037
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0037
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0037
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.0037
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.031
+  },
+  {
+   "item": "p_swift",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "marsh_wraith": [
+  {
+   "item": "m_ecto",
+   "chance": 0.45
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "a_war1",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_mag1",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_arc1",
+   "chance": 0.0034
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.0034
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0034
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_cle2",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_rog2",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_wlk2",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.0034
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.0034
+  },
+  {
+   "item": "b_spike",
+   "chance": 0.0034
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0034
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0034
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.0034
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.0034
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.0034
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.033
+  },
+  {
+   "item": "p_iron",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "poison_toad": [
+  {
+   "item": "m_gland",
+   "chance": 0.5
+  },
+  {
+   "item": "m_toadskin",
+   "chance": 0.2
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_war1",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_mag1",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_arc1",
+   "chance": 0.0029
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0029
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_cle2",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_rog2",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_wlk2",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.0029
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.0029
+  },
+  {
+   "item": "b_spike",
+   "chance": 0.0029
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0029
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0029
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.0029
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.0029
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.0029
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.034
+  },
+  {
+   "item": "p_focus",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "swamp_troll": [
+  {
+   "item": "m_troll",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.0038
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0038
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.0038
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.0038
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0038
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0038
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.0038
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.0038
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.035
+  },
+  {
+   "item": "p_haste",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "toad_matriarch": [
+  {
+   "item": "m_gland",
+   "chance": 1,
+   "min": 2,
+   "max": 4
+  },
+  {
+   "item": "m_toadskin",
+   "chance": 1,
+   "min": 2,
+   "max": 4
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.0457
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0457
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0457
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.0457
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.0457
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.0457
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.0457
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.0457
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.0457
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.0457
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.0457
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0457
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0457
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.0457
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.0457
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.0457
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0457
+  },
+  {
+   "item": "st_enh",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "st_bless",
+   "chance": 0.35,
+   "max": 1
+  },
+  {
+   "item": "p_hp2",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_essence",
+   "chance": 0.3,
+   "max": 2
+  },
+  {
+   "item": "p_brave",
+   "chance": 0.5
+  }
+ ],
+ "bog_lord": [
+  {
+   "item": "m_bogcrown",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_troll",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.0828
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0828
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0828
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0828
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.0828
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.0828
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.0828
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.0828
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.0828
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.0828
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.0828
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.0828
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0828
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0828
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.0828
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0828
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.0828
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0828
+  },
+  {
+   "item": "st_enh",
+   "chance": 1,
+   "min": 8,
+   "max": 14
+  },
+  {
+   "item": "st_bless",
+   "chance": 1,
+   "max": 3
+  },
+  {
+   "item": "p_hp2",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_essence",
+   "chance": 1,
+   "max": 2
+  },
+  {
+   "item": "p_focus",
+   "chance": 0.5
+  },
+  {
+   "item": "st_guard",
+   "chance": 0.4
+  },
+  {
+   "item": "p_elixir",
+   "chance": 1,
+   "min": 1,
+   "max": 3
+  }
+ ],
+ "deep_bat": [
+  {
+   "item": "m_deepwing",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "a_war1",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_mag1",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_arc1",
+   "chance": 0.0048
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.0048
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0048
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_cle2",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_rog2",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_wlk2",
+   "chance": 0.0048
+  },
+  {
+   "item": "b_spike",
+   "chance": 0.0048
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0048
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0048
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.0048
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.0048
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.033
+  },
+  {
+   "item": "p_brave",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "tunnel_spider": [
+  {
+   "item": "m_silk",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "a_war1",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_mag1",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_arc1",
+   "chance": 0.0034
+  },
+  {
+   "item": "h_hood",
+   "chance": 0.0034
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0034
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_cle2",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_rog2",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_wlk2",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.0034
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.0034
+  },
+  {
+   "item": "b_spike",
+   "chance": 0.0034
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0034
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0034
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.0034
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.0034
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.0034
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.033
+  },
+  {
+   "item": "p_iron",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "iron_golem": [
+  {
+   "item": "m_iron",
+   "chance": 0.6
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.0037
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0037
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.0037
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.0037
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0037
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0037
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.0037
+  },
+  {
+   "item": "n_heart",
+   "chance": 0.0037
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.0037
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.034
+  },
+  {
+   "item": "p_swift",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "skeleton_foreman": [
+  {
+   "item": "m_gear",
+   "chance": 0.5
+  },
+  {
+   "item": "m_bone",
+   "chance": 0.2
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.0036
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0036
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0036
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_sword5",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_staff5",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_bow5",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_mace3",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_dagger3",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_scythe3",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.0036
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.0036
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0036
+  },
+  {
+   "item": "r_spider",
+   "chance": 0.0036
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.0036
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.0036
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0036
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.036
+  },
+  {
+   "item": "p_brave",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "gem_golem": [
+  {
+   "item": "m_gem",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0044
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.0044
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0044
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.037
+  },
+  {
+   "item": "p_focus",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "mine_overseer": [
+  {
+   "item": "m_gear",
+   "chance": 1,
+   "min": 2,
+   "max": 4
+  },
+  {
+   "item": "m_gem",
+   "chance": 1,
+   "min": 2,
+   "max": 4
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.0366
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.0366
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.0366
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0366
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0366
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0366
+  },
+  {
+   "item": "h_wizard",
+   "chance": 0.0366
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0366
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0366
+  },
+  {
+   "item": "r_sapph",
+   "chance": 0.0366
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0366
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0366
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0366
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.0366
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0366
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.0366
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0366
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.0366
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0366
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.0366
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.0366
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.0366
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.0366
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0366
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.0366
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0366
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.0366
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0366
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.0366
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0366
+  },
+  {
+   "item": "b_marsh",
+   "chance": 0.0366
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.0366
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0366
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.0366
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0366
+  },
+  {
+   "item": "st_enh",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "st_bless",
+   "chance": 0.35,
+   "max": 1
+  },
+  {
+   "item": "p_hp2",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_essence",
+   "chance": 0.3,
+   "max": 2
+  },
+  {
+   "item": "p_haste",
+   "chance": 0.5
+  }
+ ],
+ "ember_bat": [
+  {
+   "item": "m_flame",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.0051
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.0051
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.0051
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0051
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0051
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.0051
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.0051
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.0051
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.0051
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.0051
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0051
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.0051
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0051
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.037
+  },
+  {
+   "item": "p_swift",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "grave_knight": [
+  {
+   "item": "m_rust",
+   "chance": 0.45
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0029
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0029
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.0029
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.0029
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0029
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.0029
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0029
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0029
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.0029
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0029
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0029
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0029
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.039
+  },
+  {
+   "item": "p_iron",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "shard_golem": [
+  {
+   "item": "m_shard",
+   "chance": 0.55
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0037
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0037
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0037
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0037
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0037
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0037
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0037
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0037
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0037
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.04
+  },
+  {
+   "item": "p_focus",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "rust_knight": [
+  {
+   "item": "m_rust",
+   "chance": 0.55
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0044
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.0044
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0044
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.041
+  },
+  {
+   "item": "p_haste",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "deep_imp": [
+  {
+   "item": "m_horn",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0033
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0033
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0033
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0033
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0033
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.0033
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0033
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.0033
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0033
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.0033
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0033
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0033
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.042
+  },
+  {
+   "item": "p_brave",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "crystal_wyrm": [
+  {
+   "item": "m_wyrm",
+   "chance": 1,
+   "min": 2,
+   "max": 4
+  },
+  {
+   "item": "m_shard",
+   "chance": 1,
+   "min": 2,
+   "max": 4
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.0427
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.0427
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.0427
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0427
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0427
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0427
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0427
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0427
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0427
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0427
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0427
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0427
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0427
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.0427
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0427
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.0427
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0427
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.0427
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0427
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0427
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0427
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0427
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.0427
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.0427
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0427
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.0427
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0427
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.0427
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0427
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0427
+  },
+  {
+   "item": "st_enh",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "st_bless",
+   "chance": 0.35,
+   "max": 1
+  },
+  {
+   "item": "p_hp2",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_essence",
+   "chance": 0.3,
+   "max": 2
+  },
+  {
+   "item": "p_focus",
+   "chance": 0.5
+  }
+ ],
+ "sand_jelly": [
+  {
+   "item": "m_sandsoul",
+   "chance": 0.3
+  },
+  {
+   "item": "m_moss",
+   "chance": 0.3
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.003
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.003
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.003
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.003
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.003
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.003
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.003
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.003
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.003
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.003
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.003
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.003
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.003
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.003
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.003
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.003
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.003
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.003
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.003
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.003
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.003
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.003
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.003
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.003
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.003
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.003
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.003
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.003
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.003
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.003
+  },
+  {
+   "item": "n_marsh",
+   "chance": 0.003
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.003
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.038
+  },
+  {
+   "item": "p_haste",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "dune_scorpion": [
+  {
+   "item": "m_chitin",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword2",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_staff2",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_bow2",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0031
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0031
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_mace4",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_dagger4",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_scythe4",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_war4",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_mag4",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_arc4",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_cle3",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_rog3",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_wlk3",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0031
+  },
+  {
+   "item": "h_steel",
+   "chance": 0.0031
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0031
+  },
+  {
+   "item": "r_iron",
+   "chance": 0.0031
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0031
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0031
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.039
+  },
+  {
+   "item": "p_brave",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  },
+  {
+   "item": "s_morph_scorpion",
+   "chance": 0.003
+  }
+ ],
+ "dune_raider": [
+  {
+   "item": "m_cloth",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0044
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.0044
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0044
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.04
+  },
+  {
+   "item": "p_swift",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "raider_scout": [
+  {
+   "item": "m_cloth",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0033
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0033
+  },
+  {
+   "item": "b_winged",
+   "chance": 0.0033
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0033
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0033
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.0033
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0033
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.0033
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0033
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.0033
+  },
+  {
+   "item": "n_ore",
+   "chance": 0.0033
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0033
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.042
+  },
+  {
+   "item": "p_brave",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "sand_wraith": [
+  {
+   "item": "m_sandsoul",
+   "chance": 0.45
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0034
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0034
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0034
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0034
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0034
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0034
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.0034
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.0034
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0034
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.0034
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0034
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.0034
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0034
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.043
+  },
+  {
+   "item": "p_focus",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "sun_scorpion": [
+  {
+   "item": "m_sunshell",
+   "chance": 0.45
+  },
+  {
+   "item": "m_sting",
+   "chance": 0.25
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0033
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0033
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0033
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0033
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0033
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.0033
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.0033
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0033
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.0033
+  },
+  {
+   "item": "b_bone",
+   "chance": 0.0033
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.0033
+  },
+  {
+   "item": "r_bone",
+   "chance": 0.0033
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0033
+  },
+  {
+   "item": "n_bone",
+   "chance": 0.0033
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.044
+  },
+  {
+   "item": "p_haste",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "tusk_brute": [
+  {
+   "item": "m_brute",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.006
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.006
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.006
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.006
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.006
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.006
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.006
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.006
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.006
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.006
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.006
+  },
+  {
+   "item": "b_bone",
+   "chance": 0.006
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.006
+  },
+  {
+   "item": "r_bone",
+   "chance": 0.006
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.006
+  },
+  {
+   "item": "n_bone",
+   "chance": 0.006
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.045
+  },
+  {
+   "item": "p_brave",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "raider_chief": [
+  {
+   "item": "m_seal",
+   "chance": 1,
+   "min": 2,
+   "max": 4
+  },
+  {
+   "item": "m_cloth",
+   "chance": 1,
+   "min": 2,
+   "max": 4
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.0557
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.0557
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.0557
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0557
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.0557
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.0557
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.0557
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0557
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0557
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0557
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0557
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0557
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0557
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.0557
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.0557
+  },
+  {
+   "item": "h_mask",
+   "chance": 0.0557
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0557
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.0557
+  },
+  {
+   "item": "b_bone",
+   "chance": 0.0557
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.0557
+  },
+  {
+   "item": "r_bone",
+   "chance": 0.0557
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0557
+  },
+  {
+   "item": "n_bone",
+   "chance": 0.0557
+  },
+  {
+   "item": "st_enh",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "st_bless",
+   "chance": 0.35,
+   "max": 1
+  },
+  {
+   "item": "p_hp3",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_essence",
+   "chance": 0.3,
+   "max": 2
+  },
+  {
+   "item": "p_focus",
+   "chance": 0.5
+  }
+ ],
+ "sand_king": [
+  {
+   "item": "m_kingcore",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_sunshell",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.0828
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.0828
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.0828
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0828
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0828
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0828
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0828
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0828
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0828
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.0828
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.0828
+  },
+  {
+   "item": "h_mask",
+   "chance": 0.0828
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0828
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.0828
+  },
+  {
+   "item": "b_bone",
+   "chance": 0.0828
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.0828
+  },
+  {
+   "item": "r_bone",
+   "chance": 0.0828
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0828
+  },
+  {
+   "item": "n_bone",
+   "chance": 0.0828
+  },
+  {
+   "item": "st_enh",
+   "chance": 1,
+   "min": 8,
+   "max": 14
+  },
+  {
+   "item": "st_bless",
+   "chance": 1,
+   "max": 3
+  },
+  {
+   "item": "p_hp3",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_essence",
+   "chance": 1,
+   "max": 2
+  },
+  {
+   "item": "p_swift",
+   "chance": 0.5
+  },
+  {
+   "item": "st_guard",
+   "chance": 0.4
+  },
+  {
+   "item": "p_elixir",
+   "chance": 1,
+   "min": 1,
+   "max": 3
+  },
+  {
+   "item": "s_morph_scorpion",
+   "chance": 0.3
+  }
+ ],
+ "crypt_skeleton": [
+  {
+   "item": "m_grave",
+   "chance": 0.55
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0036
+  },
+  {
+   "item": "h_plume",
+   "chance": 0.0036
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0036
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0036
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.0036
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0036
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.0036
+  },
+  {
+   "item": "r_crystal",
+   "chance": 0.0036
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.0036
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0036
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.042
+  },
+  {
+   "item": "p_iron",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "crypt_wraith": [
+  {
+   "item": "m_soul",
+   "chance": 0.45
+  },
+  {
+   "item": "p_hp2",
+   "chance": 0.1
+  },
+  {
+   "item": "p_mp2",
+   "chance": 0.07
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_war2",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_mag2",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_arc2",
+   "chance": 0.0037
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_sword6",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_staff6",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_bow6",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_mace5",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_dagger5",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_scythe5",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_cle4",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_rog4",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_wlk4",
+   "chance": 0.0037
+  },
+  {
+   "item": "h_turban",
+   "chance": 0.0037
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.0037
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.0037
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.0037
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.0037
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.0037
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.0037
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.043
+  },
+  {
+   "item": "p_swift",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "ghoul_fiend": [
+  {
+   "item": "m_claw",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.006
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.006
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.006
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.006
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.006
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.006
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.006
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.006
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.006
+  },
+  {
+   "item": "b_sand",
+   "chance": 0.006
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.006
+  },
+  {
+   "item": "b_bone",
+   "chance": 0.006
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.006
+  },
+  {
+   "item": "r_bone",
+   "chance": 0.006
+  },
+  {
+   "item": "n_eye",
+   "chance": 0.006
+  },
+  {
+   "item": "n_bone",
+   "chance": 0.006
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.045
+  },
+  {
+   "item": "p_brave",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "bone_knight": [
+  {
+   "item": "m_boneplate",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.0046
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.0046
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.0046
+  },
+  {
+   "item": "n_sun",
+   "chance": 0.0046
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.0046
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.0046
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.0046
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0046
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0046
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0046
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0046
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0046
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0046
+  },
+  {
+   "item": "h_holy",
+   "chance": 0.0046
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.0046
+  },
+  {
+   "item": "h_mask",
+   "chance": 0.0046
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.0046
+  },
+  {
+   "item": "b_bone",
+   "chance": 0.0046
+  },
+  {
+   "item": "r_sand",
+   "chance": 0.0046
+  },
+  {
+   "item": "r_bone",
+   "chance": 0.0046
+  },
+  {
+   "item": "n_bone",
+   "chance": 0.0046
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.046
+  },
+  {
+   "item": "p_focus",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  },
+  {
+   "item": "s_morph_knight",
+   "chance": 0.003
+  }
+ ],
+ "crypt_gargoyle": [
+  {
+   "item": "m_stone",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.004
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.004
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.004
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.004
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.004
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.004
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.004
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.004
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.004
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.004
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.004
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.004
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.004
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.004
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.004
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.004
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.004
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.004
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.004
+  },
+  {
+   "item": "h_mask",
+   "chance": 0.004
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.004
+  },
+  {
+   "item": "b_bone",
+   "chance": 0.004
+  },
+  {
+   "item": "r_bone",
+   "chance": 0.004
+  },
+  {
+   "item": "n_bone",
+   "chance": 0.004
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.047
+  },
+  {
+   "item": "p_haste",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "crypt_warden": [
+  {
+   "item": "m_wardkey",
+   "chance": 1,
+   "min": 2,
+   "max": 4
+  },
+  {
+   "item": "m_boneplate",
+   "chance": 1,
+   "min": 2,
+   "max": 4
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.0457
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.0457
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0457
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0457
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0457
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0457
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0457
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0457
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.0457
+  },
+  {
+   "item": "h_mask",
+   "chance": 0.0457
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0457
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.0457
+  },
+  {
+   "item": "b_bone",
+   "chance": 0.0457
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0457
+  },
+  {
+   "item": "r_bone",
+   "chance": 0.0457
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0457
+  },
+  {
+   "item": "n_bone",
+   "chance": 0.0457
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0457
+  },
+  {
+   "item": "st_enh",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "st_bless",
+   "chance": 0.35,
+   "max": 1
+  },
+  {
+   "item": "p_hp3",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_essence",
+   "chance": 0.3,
+   "max": 2
+  },
+  {
+   "item": "p_focus",
+   "chance": 0.5
+  },
+  {
+   "item": "s_morph_knight",
+   "chance": 0.2
+  }
+ ],
+ "dread_knight": [
+  {
+   "item": "m_dread",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword3",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_staff3",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_bow3",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_mace6",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_dagger6",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_scythe6",
+   "chance": 0.0036
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0036
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0036
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.0036
+  },
+  {
+   "item": "h_mask",
+   "chance": 0.0036
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0036
+  },
+  {
+   "item": "b_shadow",
+   "chance": 0.0036
+  },
+  {
+   "item": "b_bone",
+   "chance": 0.0036
+  },
+  {
+   "item": "r_bone",
+   "chance": 0.0036
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0036
+  },
+  {
+   "item": "n_bone",
+   "chance": 0.0036
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0036
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.048
+  },
+  {
+   "item": "p_brave",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "lich_acolyte": [
+  {
+   "item": "m_lichbook",
+   "chance": 0.4
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0048
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.0048
+  },
+  {
+   "item": "h_mask",
+   "chance": 0.0048
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "b_bone",
+   "chance": 0.0048
+  },
+  {
+   "item": "r_bone",
+   "chance": 0.0048
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "n_bone",
+   "chance": 0.0048
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.048
+  },
+  {
+   "item": "p_iron",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "bone_gargoyle": [
+  {
+   "item": "m_stone",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0048
+  },
+  {
+   "item": "h_mask",
+   "chance": 0.0048
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "b_bone",
+   "chance": 0.0048
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "r_bone",
+   "chance": 0.0048
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "n_bone",
+   "chance": 0.0048
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.049
+  },
+  {
+   "item": "p_swift",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "shadow_fiend": [
+  {
+   "item": "m_feather",
+   "chance": 0.45
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_mask",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0044
+  },
+  {
+   "item": "b_bone",
+   "chance": 0.0044
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_bone",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_void",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_bone",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_void",
+   "chance": 0.0044
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.05
+  },
+  {
+   "item": "p_haste",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "void_wraith": [
+  {
+   "item": "m_voidgem",
+   "chance": 0.4
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_sword8",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_staff8",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_bow8",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_mace8",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_dagger8",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_scythe8",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0038
+  },
+  {
+   "item": "h_mask",
+   "chance": 0.0038
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0038
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0038
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0038
+  },
+  {
+   "item": "r_void",
+   "chance": 0.0038
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0038
+  },
+  {
+   "item": "n_void",
+   "chance": 0.0038
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.051
+  },
+  {
+   "item": "p_iron",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "bone_sovereign": [
+  {
+   "item": "m_bonecrown",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_voidgem",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.0727
+  },
+  {
+   "item": "w_sword8",
+   "chance": 0.0727
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.0727
+  },
+  {
+   "item": "w_staff8",
+   "chance": 0.0727
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.0727
+  },
+  {
+   "item": "w_bow8",
+   "chance": 0.0727
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.0727
+  },
+  {
+   "item": "w_mace8",
+   "chance": 0.0727
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.0727
+  },
+  {
+   "item": "w_dagger8",
+   "chance": 0.0727
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.0727
+  },
+  {
+   "item": "w_scythe8",
+   "chance": 0.0727
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0727
+  },
+  {
+   "item": "a_war6",
+   "chance": 0.0727
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0727
+  },
+  {
+   "item": "a_mag6",
+   "chance": 0.0727
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0727
+  },
+  {
+   "item": "a_arc6",
+   "chance": 0.0727
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0727
+  },
+  {
+   "item": "a_cle6",
+   "chance": 0.0727
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0727
+  },
+  {
+   "item": "a_rog6",
+   "chance": 0.0727
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0727
+  },
+  {
+   "item": "a_wlk6",
+   "chance": 0.0727
+  },
+  {
+   "item": "h_mask",
+   "chance": 0.0727
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0727
+  },
+  {
+   "item": "h_king",
+   "chance": 0.0727
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0727
+  },
+  {
+   "item": "b_king",
+   "chance": 0.0727
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0727
+  },
+  {
+   "item": "r_void",
+   "chance": 0.0727
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0727
+  },
+  {
+   "item": "n_void",
+   "chance": 0.0727
+  },
+  {
+   "item": "st_enh",
+   "chance": 1,
+   "min": 8,
+   "max": 14
+  },
+  {
+   "item": "st_bless",
+   "chance": 1,
+   "max": 3
+  },
+  {
+   "item": "p_hp3",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_essence",
+   "chance": 1,
+   "max": 2
+  },
+  {
+   "item": "p_swift",
+   "chance": 0.5
+  },
+  {
+   "item": "st_guard",
+   "chance": 0.4
+  },
+  {
+   "item": "p_elixir",
+   "chance": 1,
+   "min": 1,
+   "max": 3
+  },
+  {
+   "item": "s_morph_knight",
+   "chance": 0.35
+  }
+ ],
+ "slate_wyvern": [
+  {
+   "item": "m_slate",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0048
+  },
+  {
+   "item": "h_bone",
+   "chance": 0.0048
+  },
+  {
+   "item": "h_mask",
+   "chance": 0.0048
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "b_bone",
+   "chance": 0.0048
+  },
+  {
+   "item": "r_bone",
+   "chance": 0.0048
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "n_bone",
+   "chance": 0.0048
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.048
+  },
+  {
+   "item": "p_iron",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "storm_gargoyle": [
+  {
+   "item": "m_stone",
+   "chance": 0.4
+  },
+  {
+   "item": "m_stormcore",
+   "chance": 0.2
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0048
+  },
+  {
+   "item": "h_mask",
+   "chance": 0.0048
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "b_bone",
+   "chance": 0.0048
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "r_bone",
+   "chance": 0.0048
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "n_bone",
+   "chance": 0.0048
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.049
+  },
+  {
+   "item": "p_swift",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "peak_yeti": [
+  {
+   "item": "m_peakfur",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_mask",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0044
+  },
+  {
+   "item": "b_bone",
+   "chance": 0.0044
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_bone",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_void",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_bone",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_void",
+   "chance": 0.0044
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.05
+  },
+  {
+   "item": "p_haste",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "storm_wisp": [
+  {
+   "item": "m_stormcore",
+   "chance": 0.45
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_sword8",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_staff8",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_bow8",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_mace8",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_dagger8",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.0038
+  },
+  {
+   "item": "w_scythe8",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0038
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0038
+  },
+  {
+   "item": "h_mask",
+   "chance": 0.0038
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0038
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0038
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0038
+  },
+  {
+   "item": "r_void",
+   "chance": 0.0038
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0038
+  },
+  {
+   "item": "n_void",
+   "chance": 0.0038
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.051
+  },
+  {
+   "item": "p_iron",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "gloom_fiend": [
+  {
+   "item": "m_feather",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_sword8",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_staff8",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_bow8",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_mace8",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_dagger8",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_scythe8",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_war6",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_mag6",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_arc6",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_cle6",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_rog6",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_wlk6",
+   "chance": 0.0031
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0031
+  },
+  {
+   "item": "h_king",
+   "chance": 0.0031
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0031
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0031
+  },
+  {
+   "item": "r_void",
+   "chance": 0.0031
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0031
+  },
+  {
+   "item": "n_void",
+   "chance": 0.0031
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.052
+  },
+  {
+   "item": "p_focus",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "storm_wyvern": [
+  {
+   "item": "m_slate",
+   "chance": 0.5
+  },
+  {
+   "item": "m_stormcore",
+   "chance": 0.15
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword8",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_staff8",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_bow8",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_mace8",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_dagger8",
+   "chance": 0.0048
+  },
+  {
+   "item": "w_scythe8",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_war6",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_mag6",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_arc6",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_cle6",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_rog6",
+   "chance": 0.0048
+  },
+  {
+   "item": "a_wlk6",
+   "chance": 0.0048
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "h_king",
+   "chance": 0.0048
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "b_king",
+   "chance": 0.0048
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "r_void",
+   "chance": 0.0048
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0048
+  },
+  {
+   "item": "n_void",
+   "chance": 0.0048
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.053
+  },
+  {
+   "item": "p_haste",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "storm_drake_king": [
+  {
+   "item": "m_drakeheart",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_slate",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "w_sword8",
+   "chance": 0.1091
+  },
+  {
+   "item": "w_staff8",
+   "chance": 0.1091
+  },
+  {
+   "item": "w_bow8",
+   "chance": 0.1091
+  },
+  {
+   "item": "w_mace8",
+   "chance": 0.1091
+  },
+  {
+   "item": "w_dagger8",
+   "chance": 0.1091
+  },
+  {
+   "item": "w_scythe8",
+   "chance": 0.1091
+  },
+  {
+   "item": "a_war6",
+   "chance": 0.1091
+  },
+  {
+   "item": "a_mag6",
+   "chance": 0.1091
+  },
+  {
+   "item": "a_arc6",
+   "chance": 0.1091
+  },
+  {
+   "item": "a_cle6",
+   "chance": 0.1091
+  },
+  {
+   "item": "a_rog6",
+   "chance": 0.1091
+  },
+  {
+   "item": "a_wlk6",
+   "chance": 0.1091
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.1091
+  },
+  {
+   "item": "h_king",
+   "chance": 0.1091
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.1091
+  },
+  {
+   "item": "b_king",
+   "chance": 0.1091
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.1091
+  },
+  {
+   "item": "r_void",
+   "chance": 0.1091
+  },
+  {
+   "item": "r_king",
+   "chance": 0.1091
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.1091
+  },
+  {
+   "item": "n_void",
+   "chance": 0.1091
+  },
+  {
+   "item": "n_dawn",
+   "chance": 0.1091
+  },
+  {
+   "item": "st_enh",
+   "chance": 1,
+   "min": 8,
+   "max": 14
+  },
+  {
+   "item": "st_bless",
+   "chance": 1,
+   "max": 3
+  },
+  {
+   "item": "p_hp3",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_essence",
+   "chance": 1,
+   "max": 2
+  },
+  {
+   "item": "p_focus",
+   "chance": 0.5
+  },
+  {
+   "item": "st_guard",
+   "chance": 0.4
+  },
+  {
+   "item": "p_elixir",
+   "chance": 1,
+   "min": 1,
+   "max": 3
+  },
+  {
+   "item": "s_morph_dragon",
+   "chance": 0.3
+  }
+ ],
+ "tusk_warrior": [
+  {
+   "item": "m_wartusk",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.0051
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.0051
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.0051
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.0051
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.0051
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0051
+  },
+  {
+   "item": "h_mask",
+   "chance": 0.0051
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0051
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0051
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0051
+  },
+  {
+   "item": "r_void",
+   "chance": 0.0051
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0051
+  },
+  {
+   "item": "n_void",
+   "chance": 0.0051
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.051
+  },
+  {
+   "item": "p_brave",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "tusk_shaman": [
+  {
+   "item": "m_totem",
+   "chance": 0.45
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_sword8",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_staff8",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_bow8",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_mace8",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_dagger8",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.0031
+  },
+  {
+   "item": "w_scythe8",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_war5",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_war6",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_mag5",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_mag6",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_arc5",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_arc6",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_cle5",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_cle6",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_rog5",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_rog6",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_wlk5",
+   "chance": 0.0031
+  },
+  {
+   "item": "a_wlk6",
+   "chance": 0.0031
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0031
+  },
+  {
+   "item": "h_king",
+   "chance": 0.0031
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0031
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0031
+  },
+  {
+   "item": "r_void",
+   "chance": 0.0031
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0031
+  },
+  {
+   "item": "n_void",
+   "chance": 0.0031
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.052
+  },
+  {
+   "item": "p_focus",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "fallen_knight": [
+  {
+   "item": "m_oath",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword7",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_sword8",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_staff7",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_staff8",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_bow7",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_bow8",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_mace7",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_mace8",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_dagger7",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_dagger8",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_scythe7",
+   "chance": 0.0037
+  },
+  {
+   "item": "w_scythe8",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_war6",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_mag6",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_arc6",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_cle6",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_rog6",
+   "chance": 0.0037
+  },
+  {
+   "item": "a_wlk6",
+   "chance": 0.0037
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0037
+  },
+  {
+   "item": "h_king",
+   "chance": 0.0037
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0037
+  },
+  {
+   "item": "b_king",
+   "chance": 0.0037
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0037
+  },
+  {
+   "item": "r_void",
+   "chance": 0.0037
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0037
+  },
+  {
+   "item": "n_void",
+   "chance": 0.0037
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.052
+  },
+  {
+   "item": "p_swift",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "siege_golem": [
+  {
+   "item": "m_siege",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword8",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_staff8",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_bow8",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_mace8",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_dagger8",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_scythe8",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_war6",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_mag6",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_arc6",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_cle6",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_rog6",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_wlk6",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_king",
+   "chance": 0.0044
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0044
+  },
+  {
+   "item": "b_king",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_void",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_king",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_void",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_dawn",
+   "chance": 0.0044
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.054
+  },
+  {
+   "item": "p_brave",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "war_fiend": [
+  {
+   "item": "m_feather",
+   "chance": 0.4
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword8",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_staff8",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_bow8",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_mace8",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_dagger8",
+   "chance": 0.0044
+  },
+  {
+   "item": "w_scythe8",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_war6",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_mag6",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_arc6",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_cle6",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_rog6",
+   "chance": 0.0044
+  },
+  {
+   "item": "a_wlk6",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_storm",
+   "chance": 0.0044
+  },
+  {
+   "item": "h_king",
+   "chance": 0.0044
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0044
+  },
+  {
+   "item": "b_king",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_storm",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_void",
+   "chance": 0.0044
+  },
+  {
+   "item": "r_king",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_storm",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_void",
+   "chance": 0.0044
+  },
+  {
+   "item": "n_dawn",
+   "chance": 0.0044
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.054
+  },
+  {
+   "item": "p_brave",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  },
+  {
+   "item": "s_morph_fiend",
+   "chance": 0.003
+  }
+ ],
+ "fortress_gargoyle": [
+  {
+   "item": "m_stone",
+   "chance": 0.5
+  },
+  {
+   "item": "p_hp3",
+   "chance": 0.08
+  },
+  {
+   "item": "p_mp3",
+   "chance": 0.06
+  },
+  {
+   "item": "w_sword8",
+   "chance": 0.0051
+  },
+  {
+   "item": "w_staff8",
+   "chance": 0.0051
+  },
+  {
+   "item": "w_bow8",
+   "chance": 0.0051
+  },
+  {
+   "item": "w_mace8",
+   "chance": 0.0051
+  },
+  {
+   "item": "w_dagger8",
+   "chance": 0.0051
+  },
+  {
+   "item": "w_scythe8",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_war6",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_mag6",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_arc6",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_cle6",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_rog6",
+   "chance": 0.0051
+  },
+  {
+   "item": "a_wlk6",
+   "chance": 0.0051
+  },
+  {
+   "item": "h_king",
+   "chance": 0.0051
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0051
+  },
+  {
+   "item": "b_king",
+   "chance": 0.0051
+  },
+  {
+   "item": "r_void",
+   "chance": 0.0051
+  },
+  {
+   "item": "r_king",
+   "chance": 0.0051
+  },
+  {
+   "item": "n_void",
+   "chance": 0.0051
+  },
+  {
+   "item": "n_dawn",
+   "chance": 0.0051
+  },
+  {
+   "item": "st_enh",
+   "chance": 0.054
+  },
+  {
+   "item": "p_iron",
+   "chance": 0.01
+  },
+  {
+   "item": "m_leather",
+   "chance": 0.02
+  }
+ ],
+ "tusk_warlord": [
+  {
+   "item": "m_banner",
+   "chance": 1,
+   "min": 2,
+   "max": 4
+  },
+  {
+   "item": "m_wartusk",
+   "chance": 1,
+   "min": 2,
+   "max": 4
+  },
+  {
+   "item": "w_sword8",
+   "chance": 0.0674
+  },
+  {
+   "item": "w_staff8",
+   "chance": 0.0674
+  },
+  {
+   "item": "w_bow8",
+   "chance": 0.0674
+  },
+  {
+   "item": "w_mace8",
+   "chance": 0.0674
+  },
+  {
+   "item": "w_dagger8",
+   "chance": 0.0674
+  },
+  {
+   "item": "w_scythe8",
+   "chance": 0.0674
+  },
+  {
+   "item": "a_war6",
+   "chance": 0.0674
+  },
+  {
+   "item": "a_mag6",
+   "chance": 0.0674
+  },
+  {
+   "item": "a_arc6",
+   "chance": 0.0674
+  },
+  {
+   "item": "a_cle6",
+   "chance": 0.0674
+  },
+  {
+   "item": "a_rog6",
+   "chance": 0.0674
+  },
+  {
+   "item": "a_wlk6",
+   "chance": 0.0674
+  },
+  {
+   "item": "h_king",
+   "chance": 0.0674
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.0674
+  },
+  {
+   "item": "b_king",
+   "chance": 0.0674
+  },
+  {
+   "item": "r_void",
+   "chance": 0.0674
+  },
+  {
+   "item": "r_king",
+   "chance": 0.0674
+  },
+  {
+   "item": "n_void",
+   "chance": 0.0674
+  },
+  {
+   "item": "n_dawn",
+   "chance": 0.0674
+  },
+  {
+   "item": "st_enh",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "st_bless",
+   "chance": 0.35,
+   "max": 1
+  },
+  {
+   "item": "p_hp3",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_essence",
+   "chance": 0.3,
+   "max": 2
+  },
+  {
+   "item": "p_swift",
+   "chance": 0.5
+  }
+ ],
+ "fallen_commander": [
+  {
+   "item": "m_commander",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_banner",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "w_sword8",
+   "chance": 0.1263
+  },
+  {
+   "item": "w_staff8",
+   "chance": 0.1263
+  },
+  {
+   "item": "w_bow8",
+   "chance": 0.1263
+  },
+  {
+   "item": "w_mace8",
+   "chance": 0.1263
+  },
+  {
+   "item": "w_dagger8",
+   "chance": 0.1263
+  },
+  {
+   "item": "w_scythe8",
+   "chance": 0.1263
+  },
+  {
+   "item": "a_war6",
+   "chance": 0.1263
+  },
+  {
+   "item": "a_mag6",
+   "chance": 0.1263
+  },
+  {
+   "item": "a_arc6",
+   "chance": 0.1263
+  },
+  {
+   "item": "a_cle6",
+   "chance": 0.1263
+  },
+  {
+   "item": "a_rog6",
+   "chance": 0.1263
+  },
+  {
+   "item": "a_wlk6",
+   "chance": 0.1263
+  },
+  {
+   "item": "h_king",
+   "chance": 0.1263
+  },
+  {
+   "item": "b_storm",
+   "chance": 0.1263
+  },
+  {
+   "item": "b_king",
+   "chance": 0.1263
+  },
+  {
+   "item": "r_void",
+   "chance": 0.1263
+  },
+  {
+   "item": "r_king",
+   "chance": 0.1263
+  },
+  {
+   "item": "n_void",
+   "chance": 0.1263
+  },
+  {
+   "item": "n_dawn",
+   "chance": 0.1263
+  },
+  {
+   "item": "st_enh",
+   "chance": 1,
+   "min": 8,
+   "max": 14
+  },
+  {
+   "item": "st_bless",
+   "chance": 1,
+   "max": 3
+  },
+  {
+   "item": "p_hp3",
+   "chance": 1,
+   "min": 3,
+   "max": 6
+  },
+  {
+   "item": "m_essence",
+   "chance": 1,
+   "max": 2
+  },
+  {
+   "item": "p_haste",
+   "chance": 0.5
+  },
+  {
+   "item": "st_guard",
+   "chance": 0.4
+  },
+  {
+   "item": "p_elixir",
+   "chance": 1,
+   "min": 1,
+   "max": 3
+  },
+  {
+   "item": "s_morph_fiend",
+   "chance": 0.35
+  }
+ ]
+}

@@ -1,0 +1,1535 @@
+{
+ "dew_jelly": {
+  "name": "露珠凝膠",
+  "level": 1,
+  "hp": 35,
+  "atk": 8,
+  "def": 2,
+  "exp": 10,
+  "gold": [
+   3,
+   7
+  ],
+  "speed": 1.6,
+  "aggro": 0,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_dew_jelly",
+  "drops": "dew_jelly"
+ },
+ "thorn_boar": {
+  "name": "棘背野豬",
+  "level": 3,
+  "hp": 77,
+  "atk": 13,
+  "def": 5,
+  "exp": 37,
+  "gold": [
+   6,
+   13
+  ],
+  "speed": 2.2,
+  "aggro": 3,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_thorn_boar",
+  "drops": "thorn_boar"
+ },
+ "bloom_shroom": {
+  "name": "花傘菇",
+  "level": 5,
+  "hp": 144,
+  "atk": 18,
+  "def": 7,
+  "exp": 77,
+  "gold": [
+   9,
+   19
+  ],
+  "speed": 1.4,
+  "aggro": 0,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_bloom_shroom",
+  "drops": "bloom_shroom"
+ },
+ "plains_wolf": {
+  "name": "草原狼",
+  "level": 8,
+  "hp": 224,
+  "atk": 25,
+  "def": 11,
+  "exp": 155,
+  "gold": [
+   13,
+   28
+  ],
+  "speed": 3,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1300,
+  "sprite": "mon_plains_wolf",
+  "drops": "plains_wolf"
+ },
+ "horn_boar_king": {
+  "name": "巨角豬王",
+  "level": 12,
+  "hp": 2205,
+  "atk": 49,
+  "def": 21,
+  "exp": 2291,
+  "gold": [
+   120,
+   220
+  ],
+  "speed": 2.2,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_horn_boar_king",
+  "drops": "horn_boar_king",
+  "rank": "mini",
+  "respawnSec": 180,
+  "size": 1.6
+ },
+ "ash_bat": {
+  "name": "灰燼蝙蝠",
+  "level": 12,
+  "hp": 312,
+  "atk": 35,
+  "def": 16,
+  "exp": 286,
+  "gold": [
+   19,
+   40
+  ],
+  "speed": 3.2,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 1200,
+  "sprite": "mon_ash_bat",
+  "drops": "ash_bat"
+ },
+ "cave_spider": {
+  "name": "洞穴蛛",
+  "level": 14,
+  "hp": 445,
+  "atk": 44,
+  "def": 19,
+  "exp": 363,
+  "gold": [
+   22,
+   46
+  ],
+  "speed": 2.2,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_cave_spider",
+  "drops": "cave_spider"
+ },
+ "ore_golem": {
+  "name": "赤銅魔像",
+  "level": 17,
+  "hp": 854,
+  "atk": 48,
+  "def": 33,
+  "exp": 635,
+  "gold": [
+   27,
+   55
+  ],
+  "speed": 1.6,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 2000,
+  "sprite": "mon_ore_golem",
+  "drops": "ore_golem"
+ },
+ "skeleton_miner": {
+  "name": "亡骸礦工",
+  "level": 20,
+  "hp": 700,
+  "atk": 61,
+  "def": 26,
+  "exp": 627,
+  "gold": [
+   31,
+   64
+  ],
+  "speed": 2.2,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_skeleton_miner",
+  "drops": "skeleton_miner"
+ },
+ "crystal_golem": {
+  "name": "紫晶巨像",
+  "level": 25,
+  "hp": 6527,
+  "atk": 101,
+  "def": 48,
+  "exp": 7965,
+  "gold": [
+   400,
+   700
+  ],
+  "speed": 1.7,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 2000,
+  "sprite": "mon_crystal_golem",
+  "drops": "crystal_golem",
+  "rank": "mini",
+  "respawnSec": 240,
+  "size": 1.8
+ },
+ "snow_wolf": {
+  "name": "雪原狼",
+  "level": 26,
+  "hp": 981,
+  "atk": 70,
+  "def": 34,
+  "exp": 940,
+  "gold": [
+   40,
+   82
+  ],
+  "speed": 3.2,
+  "aggro": 7,
+  "range": 1.3,
+  "attackMs": 1250,
+  "sprite": "mon_snow_wolf",
+  "drops": "snow_wolf"
+ },
+ "ice_wisp": {
+  "name": "冰晶精魂",
+  "level": 29,
+  "hp": 960,
+  "atk": 78,
+  "def": 37,
+  "exp": 1113,
+  "gold": [
+   45,
+   91
+  ],
+  "speed": 2.2,
+  "aggro": 5,
+  "range": 5,
+  "attackMs": 1900,
+  "sprite": "mon_ice_wisp",
+  "drops": "ice_wisp",
+  "projectile": "ice",
+  "magic": true
+ },
+ "frost_yeti": {
+  "name": "霜原雪怪",
+  "level": 33,
+  "hp": 2137,
+  "atk": 105,
+  "def": 42,
+  "exp": 1902,
+  "gold": [
+   51,
+   103
+  ],
+  "speed": 1.9,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 1900,
+  "sprite": "mon_frost_yeti",
+  "drops": "frost_yeti"
+ },
+ "frost_wolf_king": {
+  "name": "霜牙狼王",
+  "level": 38,
+  "hp": 19250,
+  "atk": 160,
+  "def": 68,
+  "exp": 30417,
+  "gold": [
+   1500,
+   2600
+  ],
+  "speed": 3,
+  "aggro": 7,
+  "range": 1.3,
+  "attackMs": 1500,
+  "sprite": "mon_frost_wolf_king",
+  "drops": "frost_wolf_king",
+  "rank": "boss",
+  "respawnSec": 420,
+  "size": 2.2
+ },
+ "lava_slime": {
+  "name": "熔岩凝膠",
+  "level": 38,
+  "hp": 1604,
+  "atk": 100,
+  "def": 49,
+  "exp": 1690,
+  "gold": [
+   58,
+   118
+  ],
+  "speed": 1.8,
+  "aggro": 2,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_lava_slime",
+  "drops": "lava_slime"
+ },
+ "fire_imp": {
+  "name": "火焰小魔",
+  "level": 41,
+  "hp": 1771,
+  "atk": 108,
+  "def": 52,
+  "exp": 1901,
+  "gold": [
+   63,
+   127
+  ],
+  "speed": 2.2,
+  "aggro": 7,
+  "range": 5,
+  "attackMs": 1700,
+  "sprite": "mon_fire_imp",
+  "drops": "fire_imp",
+  "projectile": "fire",
+  "magic": true
+ },
+ "magma_elemental": {
+  "name": "熔核元素",
+  "level": 45,
+  "hp": 3000,
+  "atk": 141,
+  "def": 57,
+  "exp": 3292,
+  "gold": [
+   69,
+   139
+  ],
+  "speed": 1.7,
+  "aggro": 5,
+  "range": 4.5,
+  "attackMs": 2100,
+  "sprite": "mon_magma_elemental",
+  "drops": "magma_elemental",
+  "projectile": "fire",
+  "magic": true
+ },
+ "ember_dragon": {
+  "name": "餘燼古龍",
+  "level": 50,
+  "hp": 36719,
+  "atk": 221,
+  "def": 95,
+  "exp": 64590,
+  "gold": [
+   4000,
+   7000
+  ],
+  "speed": 2.4,
+  "aggro": 8,
+  "range": 2.6,
+  "attackMs": 1800,
+  "sprite": "mon_ember_dragon",
+  "drops": "ember_dragon",
+  "rank": "boss",
+  "respawnSec": 600,
+  "size": 3
+ },
+ "forest_jelly": {
+  "name": "苔綠凝膠",
+  "level": 9,
+  "hp": 258,
+  "atk": 28,
+  "def": 12,
+  "exp": 185,
+  "gold": [
+   15,
+   31
+  ],
+  "speed": 1.6,
+  "aggro": 0,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_dew_jelly~h-80~s1.1~b0.9",
+  "drops": "forest_jelly"
+ },
+ "shade_wolf": {
+  "name": "影牙狼",
+  "level": 12,
+  "hp": 368,
+  "atk": 35,
+  "def": 16,
+  "exp": 286,
+  "gold": [
+   19,
+   40
+  ],
+  "speed": 3.1,
+  "aggro": 7,
+  "range": 1.3,
+  "attackMs": 1250,
+  "sprite": "mon_plains_wolf~h0~s0.55~b0.6",
+  "drops": "shade_wolf"
+ },
+ "gloom_shroom": {
+  "name": "夜傘菇",
+  "level": 10,
+  "hp": 338,
+  "atk": 30,
+  "def": 14,
+  "exp": 217,
+  "gold": [
+   16,
+   34
+  ],
+  "speed": 1.3,
+  "aggro": 0,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_bloom_shroom~h200~s1.1~b0.8",
+  "drops": "gloom_shroom"
+ },
+ "venom_spider": {
+  "name": "翠毒蛛",
+  "level": 14,
+  "hp": 445,
+  "atk": 44,
+  "def": 19,
+  "exp": 363,
+  "gold": [
+   22,
+   46
+  ],
+  "speed": 2.2,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_cave_spider~h90~s1.5~b1",
+  "drops": "venom_spider"
+ },
+ "bark_treant": {
+  "name": "樹皮守衛",
+  "level": 16,
+  "hp": 843,
+  "atk": 45,
+  "def": 29,
+  "exp": 601,
+  "gold": [
+   25,
+   52
+  ],
+  "speed": 1.4,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 2000,
+  "sprite": "mon_bark_treant",
+  "drops": "bark_treant"
+ },
+ "thorn_treant": {
+  "name": "荊棘樹精",
+  "level": 18,
+  "hp": 918,
+  "atk": 50,
+  "def": 31,
+  "exp": 693,
+  "gold": [
+   28,
+   58
+  ],
+  "speed": 1.5,
+  "aggro": 4,
+  "range": 1.3,
+  "attackMs": 1900,
+  "sprite": "mon_bark_treant~h-30~s1.2~b0.85",
+  "drops": "thorn_treant"
+ },
+ "elder_treant": {
+  "name": "千年樹王",
+  "level": 20,
+  "hp": 7701,
+  "atk": 91,
+  "def": 38,
+  "exp": 10038,
+  "gold": [
+   900,
+   1600
+  ],
+  "speed": 1.6,
+  "aggro": 8,
+  "range": 2.2,
+  "attackMs": 2000,
+  "sprite": "mon_bark_treant~h40~s1.25~b1",
+  "drops": "elder_treant",
+  "rank": "boss",
+  "respawnSec": 420,
+  "size": 2.3
+ },
+ "bog_toad": {
+  "name": "沼澤蟾蜍",
+  "level": 17,
+  "hp": 655,
+  "atk": 48,
+  "def": 22,
+  "exp": 489,
+  "gold": [
+   27,
+   55
+  ],
+  "speed": 2.2,
+  "aggro": 4,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_bog_toad",
+  "drops": "bog_toad"
+ },
+ "mire_jelly": {
+  "name": "腐泥凝膠",
+  "level": 18,
+  "hp": 734,
+  "atk": 50,
+  "def": 24,
+  "exp": 533,
+  "gold": [
+   28,
+   58
+  ],
+  "speed": 1.7,
+  "aggro": 2,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_dew_jelly~h150~s0.7~b0.7",
+  "drops": "mire_jelly"
+ },
+ "rot_shroom": {
+  "name": "腐沼蕈",
+  "level": 19,
+  "hp": 787,
+  "atk": 53,
+  "def": 25,
+  "exp": 580,
+  "gold": [
+   30,
+   61
+  ],
+  "speed": 1.3,
+  "aggro": 0,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_bloom_shroom~h90~s0.9~b0.75",
+  "drops": "rot_shroom"
+ },
+ "marsh_wraith": {
+  "name": "沼地幽魂",
+  "level": 22,
+  "hp": 672,
+  "atk": 60,
+  "def": 29,
+  "exp": 727,
+  "gold": [
+   34,
+   70
+  ],
+  "speed": 2.2,
+  "aggro": 6,
+  "range": 4.5,
+  "attackMs": 1800,
+  "sprite": "mon_hollow_wraith~h-60~s1.1~b1",
+  "drops": "marsh_wraith",
+  "projectile": "ice",
+  "magic": true
+ },
+ "poison_toad": {
+  "name": "毒腺蟾蜍",
+  "level": 23,
+  "hp": 838,
+  "atk": 72,
+  "def": 30,
+  "exp": 778,
+  "gold": [
+   36,
+   73
+  ],
+  "speed": 2.2,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_bog_toad~h60~s1.35~b1",
+  "drops": "poison_toad"
+ },
+ "swamp_troll": {
+  "name": "沼澤巨魔",
+  "level": 25,
+  "hp": 1585,
+  "atk": 81,
+  "def": 32,
+  "exp": 1283,
+  "gold": [
+   39,
+   79
+  ],
+  "speed": 1.8,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 1900,
+  "sprite": "mon_moss_troll",
+  "drops": "swamp_troll"
+ },
+ "toad_matriarch": {
+  "name": "蟾母",
+  "level": 26,
+  "hp": 6865,
+  "atk": 102,
+  "def": 45,
+  "exp": 8462,
+  "gold": [
+   500,
+   900
+  ],
+  "speed": 2.2,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_bog_toad~h-40~s1.2~b0.95",
+  "drops": "toad_matriarch",
+  "rank": "mini",
+  "respawnSec": 240,
+  "size": 1.9
+ },
+ "bog_lord": {
+  "name": "沼淵領主",
+  "level": 28,
+  "hp": 15110,
+  "atk": 124,
+  "def": 52,
+  "exp": 23191,
+  "gold": [
+   1600,
+   2800
+  ],
+  "speed": 2,
+  "aggro": 8,
+  "range": 2.2,
+  "attackMs": 1900,
+  "sprite": "mon_moss_troll~h40~s1.1~b0.8",
+  "drops": "bog_lord",
+  "rank": "boss",
+  "respawnSec": 600,
+  "size": 2.3
+ },
+ "deep_bat": {
+  "name": "深淵蝙蝠",
+  "level": 21,
+  "hp": 633,
+  "atk": 58,
+  "def": 27,
+  "exp": 676,
+  "gold": [
+   33,
+   67
+  ],
+  "speed": 3.3,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1150,
+  "sprite": "mon_ash_bat~h200~s1.1~b0.8",
+  "drops": "deep_bat"
+ },
+ "tunnel_spider": {
+  "name": "坑道蛛",
+  "level": 22,
+  "hp": 791,
+  "atk": 66,
+  "def": 29,
+  "exp": 727,
+  "gold": [
+   34,
+   70
+  ],
+  "speed": 2.2,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_cave_spider~h0~s0.6~b0.7",
+  "drops": "tunnel_spider"
+ },
+ "iron_golem": {
+  "name": "黑鐵魔像",
+  "level": 24,
+  "hp": 1415,
+  "atk": 65,
+  "def": 50,
+  "exp": 1122,
+  "gold": [
+   37,
+   76
+  ],
+  "speed": 1.5,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 2000,
+  "sprite": "mon_ore_golem~h0~s0.2~b0.8",
+  "drops": "iron_golem"
+ },
+ "skeleton_foreman": {
+  "name": "亡骸工頭",
+  "level": 26,
+  "hp": 1177,
+  "atk": 81,
+  "def": 34,
+  "exp": 940,
+  "gold": [
+   40,
+   82
+  ],
+  "speed": 2.2,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_skeleton_miner~h30~s1.3~b1",
+  "drops": "skeleton_foreman",
+  "size": 1.15
+ },
+ "gem_golem": {
+  "name": "翠晶魔像",
+  "level": 28,
+  "hp": 1835,
+  "atk": 75,
+  "def": 58,
+  "exp": 1476,
+  "gold": [
+   43,
+   88
+  ],
+  "speed": 1.6,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 2000,
+  "sprite": "mon_crystal_golem~h-140~s1.1~b1",
+  "drops": "gem_golem",
+  "size": 1.2
+ },
+ "mine_overseer": {
+  "name": "礦坑監工",
+  "level": 30,
+  "hp": 8261,
+  "atk": 116,
+  "def": 52,
+  "exp": 10554,
+  "gold": [
+   700,
+   1200
+  ],
+  "speed": 2.2,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_skeleton_miner~h-30~s1.2~b0.7",
+  "drops": "mine_overseer",
+  "rank": "mini",
+  "respawnSec": 240,
+  "size": 1.8
+ },
+ "ember_bat": {
+  "name": "炎息蝙蝠",
+  "level": 29,
+  "hp": 960,
+  "atk": 78,
+  "def": 37,
+  "exp": 1113,
+  "gold": [
+   45,
+   91
+  ],
+  "speed": 3.3,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1150,
+  "sprite": "mon_ash_bat~h-30~s1.6~b1.1",
+  "drops": "ember_bat"
+ },
+ "grave_knight": {
+  "name": "墓穴騎士",
+  "level": 32,
+  "hp": 1668,
+  "atk": 98,
+  "def": 53,
+  "exp": 1620,
+  "gold": [
+   49,
+   100
+  ],
+  "speed": 2.2,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1500,
+  "sprite": "mon_grave_knight",
+  "drops": "grave_knight"
+ },
+ "shard_golem": {
+  "name": "碎晶魔像",
+  "level": 33,
+  "hp": 2270,
+  "atk": 88,
+  "def": 68,
+  "exp": 1902,
+  "gold": [
+   51,
+   103
+  ],
+  "speed": 1.6,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 2000,
+  "sprite": "mon_crystal_golem~h60~s1.2~b1",
+  "drops": "shard_golem",
+  "size": 1.2
+ },
+ "rust_knight": {
+  "name": "鏽蝕騎士",
+  "level": 35,
+  "hp": 1874,
+  "atk": 111,
+  "def": 58,
+  "exp": 1935,
+  "gold": [
+   54,
+   109
+  ],
+  "speed": 2.2,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1500,
+  "sprite": "mon_grave_knight~h20~s1.6~b0.9",
+  "drops": "rust_knight"
+ },
+ "deep_imp": {
+  "name": "深淵小魔",
+  "level": 36,
+  "hp": 1495,
+  "atk": 95,
+  "def": 46,
+  "exp": 1554,
+  "gold": [
+   55,
+   112
+  ],
+  "speed": 2.2,
+  "aggro": 7,
+  "range": 5,
+  "attackMs": 1700,
+  "sprite": "mon_fire_imp~h220~s1.1~b1",
+  "drops": "deep_imp",
+  "projectile": "magic",
+  "magic": true
+ },
+ "crystal_wyrm": {
+  "name": "晶鱗飛龍",
+  "level": 38,
+  "hp": 11229,
+  "atk": 145,
+  "def": 65,
+  "exp": 15209,
+  "gold": [
+   1200,
+   2000
+  ],
+  "speed": 2.6,
+  "aggro": 5,
+  "range": 2,
+  "attackMs": 1600,
+  "sprite": "mon_slate_wyvern~h220~s1.2~b1.05",
+  "drops": "crystal_wyrm",
+  "rank": "mini",
+  "respawnSec": 240,
+  "size": 1.8
+ },
+ "sand_jelly": {
+  "name": "流沙凝膠",
+  "level": 30,
+  "hp": 1298,
+  "atk": 80,
+  "def": 39,
+  "exp": 1173,
+  "gold": [
+   46,
+   94
+  ],
+  "speed": 1.6,
+  "aggro": 0,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_dew_jelly~h-150~s0.7~b1.1",
+  "drops": "sand_jelly"
+ },
+ "dune_scorpion": {
+  "name": "沙丘巨蠍",
+  "level": 31,
+  "hp": 1478,
+  "atk": 83,
+  "def": 52,
+  "exp": 1234,
+  "gold": [
+   48,
+   97
+  ],
+  "speed": 2.2,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_dune_scorpion",
+  "drops": "dune_scorpion"
+ },
+ "dune_raider": {
+  "name": "沙海盜匪",
+  "level": 34,
+  "hp": 1388,
+  "atk": 103,
+  "def": 44,
+  "exp": 1423,
+  "gold": [
+   52,
+   106
+  ],
+  "speed": 2.2,
+  "aggro": 7,
+  "range": 1.3,
+  "attackMs": 1400,
+  "sprite": "mon_dune_raider",
+  "drops": "dune_raider"
+ },
+ "raider_scout": {
+  "name": "盜匪斥候",
+  "level": 36,
+  "hp": 1346,
+  "atk": 95,
+  "def": 46,
+  "exp": 1554,
+  "gold": [
+   55,
+   112
+  ],
+  "speed": 2.2,
+  "aggro": 7,
+  "range": 5.5,
+  "attackMs": 1600,
+  "sprite": "mon_dune_raider~h90~s0.9~b1",
+  "drops": "raider_scout",
+  "projectile": "arrow"
+ },
+ "sand_wraith": {
+  "name": "沙塵怨靈",
+  "level": 38,
+  "hp": 1364,
+  "atk": 100,
+  "def": 49,
+  "exp": 1690,
+  "gold": [
+   58,
+   118
+  ],
+  "speed": 2.2,
+  "aggro": 6,
+  "range": 4.5,
+  "attackMs": 1800,
+  "sprite": "mon_hollow_wraith~h-160~s0.6~b1.1",
+  "drops": "sand_wraith",
+  "projectile": "fire",
+  "magic": true
+ },
+ "sun_scorpion": {
+  "name": "烈陽巨蠍",
+  "level": 40,
+  "hp": 2315,
+  "atk": 126,
+  "def": 69,
+  "exp": 2378,
+  "gold": [
+   61,
+   124
+  ],
+  "speed": 2.2,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_dune_scorpion~h-25~s1.5~b1.15",
+  "drops": "sun_scorpion"
+ },
+ "tusk_brute": {
+  "name": "獠牙蠻兵",
+  "level": 41,
+  "hp": 2657,
+  "atk": 134,
+  "def": 52,
+  "exp": 2566,
+  "gold": [
+   63,
+   127
+  ],
+  "speed": 2,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1700,
+  "sprite": "mon_tusk_brute",
+  "drops": "tusk_brute"
+ },
+ "raider_chief": {
+  "name": "盜匪頭目",
+  "level": 43,
+  "hp": 13192,
+  "atk": 163,
+  "def": 74,
+  "exp": 18413,
+  "gold": [
+   1800,
+   3000
+  ],
+  "speed": 2.2,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_dune_raider~h-40~s1.2~b0.9",
+  "drops": "raider_chief",
+  "rank": "mini",
+  "respawnSec": 240,
+  "size": 1.7
+ },
+ "sand_king": {
+  "name": "沙海蠍皇",
+  "level": 44,
+  "hp": 27188,
+  "atk": 190,
+  "def": 81,
+  "exp": 46639,
+  "gold": [
+   4000,
+   6500
+  ],
+  "speed": 2.5,
+  "aggro": 8,
+  "range": 2.4,
+  "attackMs": 1600,
+  "sprite": "mon_dune_scorpion~h-50~s1.3~b0.95",
+  "drops": "sand_king",
+  "rank": "boss",
+  "respawnSec": 600,
+  "size": 2.4
+ },
+ "crypt_skeleton": {
+  "name": "墓穴骸骨",
+  "level": 37,
+  "hp": 1549,
+  "atk": 107,
+  "def": 47,
+  "exp": 1622,
+  "gold": [
+   57,
+   115
+  ],
+  "speed": 2.2,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_skeleton_miner~h0~s0.3~b0.75",
+  "drops": "crypt_skeleton"
+ },
+ "crypt_wraith": {
+  "name": "墓穴怨靈",
+  "level": 39,
+  "hp": 1410,
+  "atk": 103,
+  "def": 50,
+  "exp": 1759,
+  "gold": [
+   60,
+   121
+  ],
+  "speed": 2.2,
+  "aggro": 6,
+  "range": 4.5,
+  "attackMs": 1800,
+  "sprite": "mon_hollow_wraith",
+  "drops": "crypt_wraith",
+  "projectile": "magic",
+  "magic": true
+ },
+ "ghoul_fiend": {
+  "name": "屍魔",
+  "level": 41,
+  "hp": 1771,
+  "atk": 129,
+  "def": 52,
+  "exp": 1901,
+  "gold": [
+   63,
+   127
+  ],
+  "speed": 2.6,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_gloom_fiend~h90~s0.6~b0.9",
+  "drops": "ghoul_fiend"
+ },
+ "bone_knight": {
+  "name": "骸骨騎士",
+  "level": 43,
+  "hp": 2544,
+  "atk": 135,
+  "def": 74,
+  "exp": 2660,
+  "gold": [
+   66,
+   133
+  ],
+  "speed": 2.2,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1500,
+  "sprite": "mon_grave_knight~h0~s0.2~b1.15",
+  "drops": "bone_knight"
+ },
+ "crypt_gargoyle": {
+  "name": "墓穴石像鬼",
+  "level": 45,
+  "hp": 3000,
+  "atk": 118,
+  "def": 92,
+  "exp": 2963,
+  "gold": [
+   69,
+   139
+  ],
+  "speed": 2.2,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 1800,
+  "sprite": "mon_ruin_gargoyle",
+  "drops": "crypt_gargoyle"
+ },
+ "crypt_warden": {
+  "name": "地下墓典獄長",
+  "level": 48,
+  "hp": 15230,
+  "atk": 181,
+  "def": 82,
+  "exp": 21829,
+  "gold": [
+   2500,
+   4000
+  ],
+  "speed": 2.2,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_grave_knight~h180~s1.1~b0.9",
+  "drops": "crypt_warden",
+  "rank": "mini",
+  "respawnSec": 240,
+  "size": 1.8
+ },
+ "dread_knight": {
+  "name": "恐懼騎士",
+  "level": 46,
+  "hp": 2881,
+  "atk": 150,
+  "def": 82,
+  "exp": 3066,
+  "gold": [
+   70,
+   142
+  ],
+  "speed": 2.2,
+  "aggro": 7,
+  "range": 1.3,
+  "attackMs": 1500,
+  "sprite": "mon_grave_knight~h300~s1.2~b0.7",
+  "drops": "dread_knight"
+ },
+ "lich_acolyte": {
+  "name": "骨咒侍僧",
+  "level": 47,
+  "hp": 1905,
+  "atk": 123,
+  "def": 60,
+  "exp": 2348,
+  "gold": [
+   72,
+   145
+  ],
+  "speed": 2.2,
+  "aggro": 7,
+  "range": 5,
+  "attackMs": 1800,
+  "sprite": "mon_skeleton_miner~h260~s1.5~b0.9",
+  "drops": "lich_acolyte",
+  "projectile": "magic",
+  "magic": true
+ },
+ "bone_gargoyle": {
+  "name": "白骨石像鬼",
+  "level": 49,
+  "hp": 3353,
+  "atk": 128,
+  "def": 100,
+  "exp": 3381,
+  "gold": [
+   75,
+   151
+  ],
+  "speed": 2.2,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 1800,
+  "sprite": "mon_ruin_gargoyle~h0~s0.2~b1.2",
+  "drops": "bone_gargoyle"
+ },
+ "shadow_fiend": {
+  "name": "暗影魔",
+  "level": 50,
+  "hp": 2295,
+  "atk": 163,
+  "def": 64,
+  "exp": 2584,
+  "gold": [
+   76,
+   154
+  ],
+  "speed": 2.7,
+  "aggro": 7,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_gloom_fiend~h0~s0.8~b0.55",
+  "drops": "shadow_fiend"
+ },
+ "void_wraith": {
+  "name": "虛空怨靈",
+  "level": 52,
+  "hp": 2174,
+  "atk": 135,
+  "def": 66,
+  "exp": 2745,
+  "gold": [
+   79,
+   160
+  ],
+  "speed": 2.2,
+  "aggro": 7,
+  "range": 4.5,
+  "attackMs": 1700,
+  "sprite": "mon_hollow_wraith~h120~s1.5~b1",
+  "drops": "void_wraith",
+  "projectile": "magic",
+  "magic": true
+ },
+ "bone_sovereign": {
+  "name": "骸骨君王",
+  "level": 54,
+  "hp": 35531,
+  "atk": 231,
+  "def": 99,
+  "exp": 64030,
+  "gold": [
+   6000,
+   9000
+  ],
+  "speed": 2.2,
+  "aggro": 8,
+  "range": 2.2,
+  "attackMs": 1600,
+  "sprite": "mon_bone_sovereign",
+  "drops": "bone_sovereign",
+  "rank": "boss",
+  "respawnSec": 720,
+  "size": 2.3
+ },
+ "slate_wyvern": {
+  "name": "岩鱗飛龍",
+  "level": 47,
+  "hp": 2752,
+  "atk": 147,
+  "def": 60,
+  "exp": 3052,
+  "gold": [
+   72,
+   145
+  ],
+  "speed": 2.6,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_slate_wyvern",
+  "drops": "slate_wyvern"
+ },
+ "storm_gargoyle": {
+  "name": "雷擊石像鬼",
+  "level": 49,
+  "hp": 3353,
+  "atk": 128,
+  "def": 100,
+  "exp": 3381,
+  "gold": [
+   75,
+   151
+  ],
+  "speed": 2.2,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 1800,
+  "sprite": "mon_ruin_gargoyle~h200~s1.4~b1",
+  "drops": "storm_gargoyle"
+ },
+ "peak_yeti": {
+  "name": "尖峰雪怪",
+  "level": 50,
+  "hp": 3672,
+  "atk": 156,
+  "def": 64,
+  "exp": 3617,
+  "gold": [
+   76,
+   154
+  ],
+  "speed": 1.9,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 1900,
+  "sprite": "mon_frost_yeti~h180~s0.9~b0.9",
+  "drops": "peak_yeti"
+ },
+ "storm_wisp": {
+  "name": "雷鳴精魂",
+  "level": 52,
+  "hp": 2053,
+  "atk": 135,
+  "def": 66,
+  "exp": 2745,
+  "gold": [
+   79,
+   160
+  ],
+  "speed": 2.2,
+  "aggro": 6,
+  "range": 5,
+  "attackMs": 1800,
+  "sprite": "mon_ice_wisp~h40~s1.6~b1.1",
+  "drops": "storm_wisp",
+  "projectile": "magic",
+  "magic": true
+ },
+ "gloom_fiend": {
+  "name": "黯翼魔",
+  "level": 53,
+  "hp": 2477,
+  "atk": 172,
+  "def": 67,
+  "exp": 2827,
+  "gold": [
+   81,
+   163
+  ],
+  "speed": 2.8,
+  "aggro": 7,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_gloom_fiend",
+  "drops": "gloom_fiend"
+ },
+ "storm_wyvern": {
+  "name": "雷翼飛龍",
+  "level": 55,
+  "hp": 3510,
+  "atk": 178,
+  "def": 70,
+  "exp": 4042,
+  "gold": [
+   84,
+   169
+  ],
+  "speed": 2.7,
+  "aggro": 7,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_slate_wyvern~h170~s1.5~b1.1",
+  "drops": "storm_wyvern"
+ },
+ "storm_drake_king": {
+  "name": "雷霆龍王",
+  "level": 58,
+  "hp": 39016,
+  "atk": 248,
+  "def": 107,
+  "exp": 71519,
+  "gold": [
+   8000,
+   12000
+  ],
+  "speed": 2.2,
+  "aggro": 8,
+  "range": 2.6,
+  "attackMs": 1600,
+  "sprite": "mon_ember_dragon~h190~s1.2~b1.05",
+  "drops": "storm_drake_king",
+  "rank": "boss",
+  "respawnSec": 900,
+  "size": 3.1
+ },
+ "tusk_warrior": {
+  "name": "獠牙戰士",
+  "level": 51,
+  "hp": 3533,
+  "atk": 166,
+  "def": 65,
+  "exp": 3596,
+  "gold": [
+   78,
+   157
+  ],
+  "speed": 2.1,
+  "aggro": 7,
+  "range": 1.3,
+  "attackMs": 1700,
+  "sprite": "mon_tusk_brute~h-20~s1.3~b1",
+  "drops": "tusk_warrior"
+ },
+ "tusk_shaman": {
+  "name": "獠牙咒師",
+  "level": 53,
+  "hp": 2724,
+  "atk": 138,
+  "def": 67,
+  "exp": 2827,
+  "gold": [
+   81,
+   163
+  ],
+  "speed": 2.2,
+  "aggro": 7,
+  "range": 5,
+  "attackMs": 1800,
+  "sprite": "mon_tusk_brute~h240~s1.1~b0.95",
+  "drops": "tusk_shaman",
+  "projectile": "magic",
+  "magic": true
+ },
+ "fallen_knight": {
+  "name": "墮誓騎士",
+  "level": 54,
+  "hp": 3680,
+  "atk": 175,
+  "def": 96,
+  "exp": 4075,
+  "gold": [
+   82,
+   166
+  ],
+  "speed": 2.2,
+  "aggro": 7,
+  "range": 1.3,
+  "attackMs": 1500,
+  "sprite": "mon_grave_knight~h330~s1.3~b0.8",
+  "drops": "fallen_knight"
+ },
+ "siege_golem": {
+  "name": "攻城魔像",
+  "level": 56,
+  "hp": 5323,
+  "atk": 145,
+  "def": 128,
+  "exp": 4926,
+  "gold": [
+   85,
+   172
+  ],
+  "speed": 1.4,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 2200,
+  "sprite": "mon_ore_golem~h180~s0.5~b0.9",
+  "drops": "siege_golem",
+  "size": 1.5
+ },
+ "war_fiend": {
+  "name": "戰火魔",
+  "level": 56,
+  "hp": 2662,
+  "atk": 189,
+  "def": 71,
+  "exp": 3079,
+  "gold": [
+   85,
+   172
+  ],
+  "speed": 2.8,
+  "aggro": 7,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_gloom_fiend~h-40~s1.5~b1",
+  "drops": "war_fiend"
+ },
+ "fortress_gargoyle": {
+  "name": "要塞石像鬼",
+  "level": 57,
+  "hp": 4359,
+  "atk": 148,
+  "def": 123,
+  "exp": 4430,
+  "gold": [
+   87,
+   175
+  ],
+  "speed": 2.2,
+  "aggro": 6,
+  "range": 1.3,
+  "attackMs": 1800,
+  "sprite": "mon_ruin_gargoyle~h-30~s0.8~b0.8",
+  "drops": "fortress_gargoyle"
+ },
+ "tusk_warlord": {
+  "name": "獠牙督軍",
+  "level": 59,
+  "hp": 19949,
+  "atk": 221,
+  "def": 101,
+  "exp": 30042,
+  "gold": [
+   5000,
+   8000
+  ],
+  "speed": 2.2,
+  "aggro": 5,
+  "range": 1.3,
+  "attackMs": 1600,
+  "sprite": "mon_tusk_brute~h-50~s1.3~b0.9",
+  "drops": "tusk_warlord",
+  "rank": "mini",
+  "respawnSec": 240,
+  "size": 1.9
+ },
+ "fallen_commander": {
+  "name": "斷誓統帥",
+  "level": 60,
+  "hp": 52441,
+  "atk": 256,
+  "def": 110,
+  "exp": 102781,
+  "gold": [
+   12000,
+   18000
+  ],
+  "speed": 2.2,
+  "aggro": 8,
+  "range": 2.4,
+  "attackMs": 1600,
+  "sprite": "mon_grave_knight~h330~s1.4~b0.75",
+  "drops": "fallen_commander",
+  "rank": "boss",
+  "respawnSec": 1200,
+  "size": 2.4
+ }
+}

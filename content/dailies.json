@@ -1,0 +1,80 @@
+{
+ "d_kill50": {
+  "name": "討伐懸賞",
+  "desc": "今日擊敗 50 隻怪物",
+  "kind": "kills",
+  "n": 50,
+  "gold": 3000,
+  "items": [
+   [
+    "st_enh",
+    3
+   ]
+  ]
+ },
+ "d_kill300": {
+  "name": "大討伐",
+  "desc": "今日擊敗 300 隻怪物",
+  "kind": "kills",
+  "n": 300,
+  "gold": 15000,
+  "items": [
+   [
+    "st_bless",
+    1
+   ]
+  ]
+ },
+ "d_boss": {
+  "name": "首領懸賞",
+  "desc": "今日擊敗 1 隻首領或菁英",
+  "kind": "boss",
+  "n": 1,
+  "gold": 8000,
+  "items": [
+   [
+    "st_enh",
+    5
+   ]
+  ]
+ },
+ "d_enh": {
+  "name": "鍛造委託",
+  "desc": "今日進行 3 次強化",
+  "kind": "enhance",
+  "n": 3,
+  "gold": 2000,
+  "items": [
+   [
+    "st_enh",
+    2
+   ]
+  ]
+ },
+ "d_craft": {
+  "name": "工匠委託",
+  "desc": "今日製作 2 次物品",
+  "kind": "craft",
+  "n": 2,
+  "gold": 2000,
+  "items": [
+   [
+    "m_essence",
+    1
+   ]
+  ]
+ },
+ "d_quest": {
+  "name": "助人為樂",
+  "desc": "今日完成 1 個任務",
+  "kind": "quests",
+  "n": 1,
+  "gold": 2500,
+  "items": [
+   [
+    "p_hp2",
+    10
+   ]
+  ]
+ }
+}

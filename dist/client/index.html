@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover" />
+  <meta name="app-version" content="__APP_VERSION__" />
+  <meta name="theme-color" content="#120c06" />
+  <title>星砂放置錄 v__APP_VERSION__</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M16 2l4 10 10 4-10 4-4 10-4-10-10-4 10-4z' fill='%23f0c060'/%3E%3C/svg%3E" />
+  <script type="module" crossorigin src="/assets/index-ej5mlKny.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-0Qu_i3w8.css">
+</head>
+<body>
+  <div id="loading"><div class="load-box"><div class="logo"><span class="logo-star">✦</span><b>星砂放置錄</b><small>STARSAND CHRONICLE</small></div><div id="load-bar"><i></i></div><p id="load-msg">正在喚醒星砂…</p></div></div>
+  <div id="update-banner" class="banner hidden"></div>
+
+  <section id="screen-auth" class="screen hidden">
+    <div class="title-art"></div>
+    <div class="logo big"><span class="logo-star">✦</span><b>星砂放置錄</b><small>STARSAND CHRONICLE · 原創等角放置 MMORPG</small></div>
+    <div class="card auth-card frame">
+      <label>帳號<input id="auth-user" autocomplete="username" maxlength="16" placeholder="3–16 英數字" /></label>
+      <label>密碼<input id="auth-pass" type="password" autocomplete="current-password" maxlength="64" placeholder="至少 6 字元" /></label>
+      <div class="row"><button id="btn-login" class="gold big">登入</button><button id="btn-register" class="big">註冊</button></div>
+      <p id="auth-msg" class="msg"></p>
+      <button id="btn-board-auth" class="link">♛ 查看等級排行榜</button>
+    </div>
+    <p class="foot">v<span class="ver"></span> · 所有美術、音樂、程式與設定皆為原創</p>
+  </section>
+
+  <section id="screen-chars" class="screen hidden">
+    <div class="select-art"></div>
+    <div class="chars-wrap">
+      <h2 class="screen-title">選擇角色 <button id="btn-logout" class="link small">登出</button></h2>
+      <div id="char-slots" class="slots"></div>
+      <form id="create-form" class="hidden card frame">
+        <h3>建立角色 <span class="dim small">（欄位 <span id="create-slot"></span>）</span></h3>
+        <div id="job-pick" class="jobs"></div>
+        <div class="row"><label class="grow">名稱<input id="create-name" maxlength="12" placeholder="2–12 中英數字" /></label><button type="submit" id="btn-create" class="gold big">建立</button><button type="button" id="btn-create-cancel" class="big">取消</button></div>
+      </form>
+      <p id="chars-msg" class="msg"></p>
+    </div>
+  </section>
+
+  <section id="screen-game" class="screen hidden">
+    <canvas id="view"></canvas>
+    <div id="game-ui"></div>
+  </section>
+
+  <div id="modal" class="modal hidden"><div class="card frame"><div id="modal-body"></div><button id="modal-close" class="gold big">確定</button></div></div>
+</body>
+</html>

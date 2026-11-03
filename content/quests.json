@@ -1,0 +1,1217 @@
+{
+ "q_intro": {
+  "name": "初到晨曦村",
+  "desc": "去和村口的守衛布雷克打聲招呼。",
+  "giver": "elder",
+  "level": 1,
+  "goal": {
+   "kind": "talk",
+   "npc": "guard",
+   "text": "長老派你來的？很好，草原上的凝膠最近特別多。"
+  },
+  "reward": {
+   "exp": 40,
+   "gold": 50,
+   "items": [
+    [
+     "p_hp",
+     5
+    ]
+   ]
+  }
+ },
+ "q_jelly": {
+  "name": "清理凝膠",
+  "desc": "在翠風草原擊敗 8 隻露珠凝膠。",
+  "giver": "guard",
+  "level": 1,
+  "prereq": "q_intro",
+  "goal": {
+   "kind": "kill",
+   "monster": "dew_jelly",
+   "count": 8
+  },
+  "reward": {
+   "exp": 120,
+   "gold": 80,
+   "items": [
+    [
+     "p_hp",
+     5
+    ]
+   ]
+  }
+ },
+ "q_tusk": {
+  "name": "獠牙收集",
+  "desc": "收集 5 個野豬獠牙交給長老。",
+  "giver": "elder",
+  "level": 3,
+  "prereq": "q_jelly",
+  "goal": {
+   "kind": "collect",
+   "item": "m_tusk",
+   "count": 5
+  },
+  "reward": {
+   "exp": 300,
+   "gold": 150,
+   "items": [
+    [
+     "b_leather",
+     1
+    ]
+   ]
+  }
+ },
+ "q_wolf": {
+  "name": "狼群威脅",
+  "desc": "擊敗 10 隻草原狼。",
+  "giver": "guard",
+  "level": 7,
+  "prereq": "q_tusk",
+  "goal": {
+   "kind": "kill",
+   "monster": "plains_wolf",
+   "count": 10
+  },
+  "reward": {
+   "exp": 900,
+   "gold": 300,
+   "items": [
+    [
+     "st_enh",
+     2
+    ]
+   ]
+  }
+ },
+ "q_boarking": {
+  "name": "巨角豬王",
+  "desc": "討伐草原上的巨角豬王。",
+  "giver": "elder",
+  "level": 10,
+  "prereq": "q_wolf",
+  "goal": {
+   "kind": "kill",
+   "monster": "horn_boar_king",
+   "count": 1
+  },
+  "reward": {
+   "exp": 2500,
+   "gold": 800,
+   "items": [
+    [
+     "r_ruby",
+     1
+    ]
+   ]
+  }
+ },
+ "q_ore": {
+  "name": "礦坑的委託",
+  "desc": "收集 8 個赤銅礦石。",
+  "giver": "elder",
+  "level": 13,
+  "prereq": "q_boarking",
+  "goal": {
+   "kind": "collect",
+   "item": "m_ore",
+   "count": 8
+  },
+  "reward": {
+   "exp": 5000,
+   "gold": 1200,
+   "items": [
+    [
+     "st_enh",
+     3
+    ]
+   ]
+  }
+ },
+ "q_skel": {
+  "name": "安息吧礦工",
+  "desc": "擊敗 12 隻亡骸礦工。",
+  "giver": "guard",
+  "level": 18,
+  "prereq": "q_ore",
+  "goal": {
+   "kind": "kill",
+   "monster": "skeleton_miner",
+   "count": 12
+  },
+  "reward": {
+   "exp": 12000,
+   "gold": 2000,
+   "items": [
+    [
+     "p_hp2",
+     10
+    ]
+   ]
+  }
+ },
+ "q_crystal": {
+  "name": "紫晶巨像",
+  "desc": "討伐礦坑深處的紫晶巨像。",
+  "giver": "elder",
+  "level": 22,
+  "prereq": "q_skel",
+  "goal": {
+   "kind": "kill",
+   "monster": "crystal_golem",
+   "count": 1
+  },
+  "reward": {
+   "exp": 30000,
+   "gold": 5000,
+   "items": [
+    [
+     "st_bless",
+     1
+    ]
+   ]
+  }
+ },
+ "q_core": {
+  "name": "冰之核心",
+  "desc": "收集 5 個霜之核。",
+  "giver": "elder",
+  "level": 27,
+  "prereq": "q_crystal",
+  "goal": {
+   "kind": "collect",
+   "item": "m_core",
+   "count": 5
+  },
+  "reward": {
+   "exp": 50000,
+   "gold": 6000,
+   "items": [
+    [
+     "st_enh",
+     5
+    ]
+   ]
+  }
+ },
+ "q_wolfking": {
+  "name": "霜牙狼王",
+  "desc": "討伐霜語雪原的霜牙狼王。",
+  "giver": "elder",
+  "level": 34,
+  "prereq": "q_core",
+  "goal": {
+   "kind": "kill",
+   "monster": "frost_wolf_king",
+   "count": 1
+  },
+  "reward": {
+   "exp": 120000,
+   "gold": 15000,
+   "items": [
+    [
+     "b_winged",
+     1
+    ]
+   ]
+  }
+ },
+ "q_magma": {
+  "name": "熔核失控",
+  "desc": "擊敗 15 隻熔核元素。",
+  "giver": "guard",
+  "level": 42,
+  "prereq": "q_wolfking",
+  "goal": {
+   "kind": "kill",
+   "monster": "magma_elemental",
+   "count": 15
+  },
+  "reward": {
+   "exp": 250000,
+   "gold": 20000,
+   "items": [
+    [
+     "p_elixir",
+     3
+    ]
+   ]
+  }
+ },
+ "q_dragon": {
+  "name": "餘燼古龍",
+  "desc": "討伐熔火深淵的餘燼古龍。",
+  "giver": "elder",
+  "level": 46,
+  "prereq": "q_magma",
+  "goal": {
+   "kind": "kill",
+   "monster": "ember_dragon",
+   "count": 1
+  },
+  "reward": {
+   "exp": 600000,
+   "gold": 50000,
+   "items": [
+    [
+     "n_sun",
+     1
+    ]
+   ]
+  }
+ },
+ "mq01": {
+  "name": "【主線】港都的召喚",
+  "desc": "長老收到港都的求援信，前往銀帆港都找傳令官艾德溫。",
+  "giver": "elder",
+  "level": 8,
+  "goal": {
+   "kind": "talk",
+   "npc": "herald",
+   "text": "你就是晨曦村的勇者？太好了，王國各地都出現了異變。"
+  },
+  "reward": {
+   "exp": 800,
+   "gold": 500,
+   "items": [
+    [
+     "s_city",
+     3
+    ]
+   ]
+  }
+ },
+ "mq02": {
+  "name": "【主線】密林的影子",
+  "desc": "幽影密林的影牙狼開始襲擊商隊，擊敗 15 隻。",
+  "giver": "herald",
+  "level": 10,
+  "prereq": "mq01",
+  "goal": {
+   "kind": "kill",
+   "monster": "shade_wolf",
+   "count": 15
+  },
+  "reward": {
+   "exp": 8580,
+   "gold": 800,
+   "items": [
+    [
+     "p_hp",
+     20
+    ]
+   ]
+  }
+ },
+ "mq03": {
+  "name": "【主線】毒的來源",
+  "desc": "收集 6 個翠毒蛛的毒囊，調查毒霧的來源。",
+  "giver": "herald",
+  "level": 13,
+  "prereq": "mq02",
+  "goal": {
+   "kind": "collect",
+   "item": "m_venom",
+   "count": 6
+  },
+  "reward": {
+   "exp": 7769,
+   "gold": 1214,
+   "items": [
+    [
+     "st_enh",
+     3
+    ]
+   ]
+  }
+ },
+ "mq04": {
+  "name": "【主線】千年樹王",
+  "desc": "密林深處的千年樹王被黑暗侵蝕，討伐它。",
+  "giver": "herald",
+  "level": 18,
+  "prereq": "mq03",
+  "goal": {
+   "kind": "kill",
+   "monster": "elder_treant",
+   "count": 1
+  },
+  "reward": {
+   "exp": 25095,
+   "gold": 2144,
+   "items": [
+    [
+     "n_heart",
+     1
+    ]
+   ]
+  }
+ },
+ "mq05": {
+  "name": "【主線】腐沼蔓延",
+  "desc": "腐沼的毒腺蟾蜍大量繁殖，擊敗 15 隻。",
+  "giver": "herald",
+  "level": 20,
+  "prereq": "mq04",
+  "goal": {
+   "kind": "kill",
+   "monster": "poison_toad",
+   "count": 15
+  },
+  "reward": {
+   "exp": 23340,
+   "gold": 2600,
+   "items": [
+    [
+     "p_hp2",
+     10
+    ]
+   ]
+  }
+ },
+ "mq06": {
+  "name": "【主線】礦坑的工頭",
+  "desc": "礦坑二層的亡骸工頭仍在指揮亡者挖掘，擊敗 15 隻。",
+  "giver": "herald",
+  "level": 23,
+  "prereq": "mq05",
+  "goal": {
+   "kind": "kill",
+   "monster": "skeleton_foreman",
+   "count": 15
+  },
+  "reward": {
+   "exp": 28200,
+   "gold": 3374,
+   "items": [
+    [
+     "st_enh",
+     4
+    ]
+   ]
+  }
+ },
+ "mq07": {
+  "name": "【主線】沼淵領主",
+  "desc": "腐沼的源頭——沼淵領主出現了，討伐它。",
+  "giver": "herald",
+  "level": 26,
+  "prereq": "mq06",
+  "goal": {
+   "kind": "kill",
+   "monster": "bog_lord",
+   "count": 1
+  },
+  "reward": {
+   "exp": 57978,
+   "gold": 4256,
+   "items": [
+    [
+     "st_bless",
+     1
+    ]
+   ]
+  }
+ },
+ "mq08": {
+  "name": "【主線】翠晶的秘密",
+  "desc": "收集 6 個翠晶原石，港都的學者要研究。",
+  "giver": "herald",
+  "level": 28,
+  "prereq": "mq07",
+  "goal": {
+   "kind": "collect",
+   "item": "m_gem",
+   "count": 6
+  },
+  "reward": {
+   "exp": 25299,
+   "gold": 4904,
+   "items": [
+    [
+     "p_haste",
+     3
+    ]
+   ]
+  }
+ },
+ "mq09": {
+  "name": "【主線】監工的鑰匙",
+  "desc": "擊敗礦坑監工，奪取通往三層的鑰匙。",
+  "giver": "herald",
+  "level": 30,
+  "prereq": "mq08",
+  "goal": {
+   "kind": "kill",
+   "monster": "mine_overseer",
+   "count": 1
+  },
+  "reward": {
+   "exp": 26385,
+   "gold": 5600,
+   "items": [
+    [
+     "r_crystal",
+     1
+    ]
+   ]
+  }
+ },
+ "mq10": {
+  "name": "【主線】鏽蝕的騎士團",
+  "desc": "礦坑三層的鏽蝕騎士曾是王國騎士，讓他們安息（18 隻）。",
+  "giver": "herald",
+  "level": 32,
+  "prereq": "mq09",
+  "goal": {
+   "kind": "kill",
+   "monster": "rust_knight",
+   "count": 18
+  },
+  "reward": {
+   "exp": 69660,
+   "gold": 6344,
+   "items": [
+    [
+     "st_enh",
+     5
+    ]
+   ]
+  }
+ },
+ "mq11": {
+  "name": "【主線】晶鱗飛龍",
+  "desc": "討伐盤踞熔岩層的晶鱗飛龍。",
+  "giver": "herald",
+  "level": 35,
+  "prereq": "mq10",
+  "goal": {
+   "kind": "kill",
+   "monster": "crystal_wyrm",
+   "count": 1
+  },
+  "reward": {
+   "exp": 38023,
+   "gold": 7550,
+   "items": [
+    [
+     "b_sand",
+     1
+    ]
+   ]
+  }
+ },
+ "mq12": {
+  "name": "【主線】沙海盜匪",
+  "desc": "焦陽沙海的盜匪斥候截斷商路，擊敗 18 隻。",
+  "giver": "herald",
+  "level": 37,
+  "prereq": "mq11",
+  "goal": {
+   "kind": "kill",
+   "monster": "raider_scout",
+   "count": 18
+  },
+  "reward": {
+   "exp": 55944,
+   "gold": 8414,
+   "items": [
+    [
+     "p_hp2",
+     20
+    ]
+   ]
+  }
+ },
+ "mq13": {
+  "name": "【主線】頭目印信",
+  "desc": "擊敗盜匪頭目，取回被奪走的頭目印信。",
+  "giver": "herald",
+  "level": 40,
+  "prereq": "mq12",
+  "goal": {
+   "kind": "collect",
+   "item": "m_seal",
+   "count": 1
+  },
+  "reward": {
+   "exp": 7317,
+   "gold": 9800,
+   "items": [
+    [
+     "st_bless",
+     1
+    ]
+   ]
+  }
+ },
+ "mq14": {
+  "name": "【主線】沙海蠍皇",
+  "desc": "沙海深處的蠍皇甦醒了，討伐它。",
+  "giver": "herald",
+  "level": 43,
+  "prereq": "mq13",
+  "goal": {
+   "kind": "kill",
+   "monster": "sand_king",
+   "count": 1
+  },
+  "reward": {
+   "exp": 116598,
+   "gold": 11294,
+   "items": [
+    [
+     "n_eye",
+     1
+    ]
+   ]
+  }
+ },
+ "mq15": {
+  "name": "【主線】地下墓的騎士",
+  "desc": "黯骨地下墓的骸骨騎士正在集結，擊敗 20 隻。",
+  "giver": "herald",
+  "level": 45,
+  "prereq": "mq14",
+  "goal": {
+   "kind": "kill",
+   "monster": "bone_knight",
+   "count": 20
+  },
+  "reward": {
+   "exp": 106400,
+   "gold": 12350,
+   "items": [
+    [
+     "p_hp3",
+     15
+    ]
+   ]
+  }
+ },
+ "mq16": {
+  "name": "【主線】典獄長",
+  "desc": "擊敗地下墓典獄長，取得下層的通行密信。",
+  "giver": "herald",
+  "level": 48,
+  "prereq": "mq15",
+  "goal": {
+   "kind": "kill",
+   "monster": "crypt_warden",
+   "count": 1
+  },
+  "reward": {
+   "exp": 54573,
+   "gold": 14024,
+   "items": [
+    [
+     "q_letter",
+     1
+    ],
+    [
+     "st_guard",
+     1
+    ]
+   ]
+  }
+ },
+ "mq17": {
+  "name": "【主線】虛空裂縫",
+  "desc": "地下墓下層湧出虛空怨靈，擊敗 20 隻。",
+  "giver": "herald",
+  "level": 50,
+  "prereq": "mq16",
+  "goal": {
+   "kind": "kill",
+   "monster": "void_wraith",
+   "count": 20
+  },
+  "reward": {
+   "exp": 109800,
+   "gold": 15200,
+   "items": [
+    [
+     "st_enh",
+     8
+    ]
+   ]
+  }
+ },
+ "mq18": {
+  "name": "【主線】骸骨君王",
+  "desc": "討伐統治地下墓的骸骨君王。",
+  "giver": "herald",
+  "level": 52,
+  "prereq": "mq17",
+  "goal": {
+   "kind": "kill",
+   "monster": "bone_sovereign",
+   "count": 1
+  },
+  "reward": {
+   "exp": 160075,
+   "gold": 16424,
+   "items": [
+    [
+     "n_void",
+     1
+    ]
+   ]
+  }
+ },
+ "mq19": {
+  "name": "【主線】雷霆龍王",
+  "desc": "雷鳴尖峰的雷霆龍王是斷誓統帥的坐騎，討伐它。",
+  "giver": "herald",
+  "level": 55,
+  "prereq": "mq18",
+  "goal": {
+   "kind": "kill",
+   "monster": "storm_drake_king",
+   "count": 1
+  },
+  "reward": {
+   "exp": 178798,
+   "gold": 18350,
+   "items": [
+    [
+     "st_guard",
+     2
+    ]
+   ]
+  }
+ },
+ "mq20": {
+  "name": "【主線終章】斷誓之戰",
+  "desc": "攻入斷誓要塞，討伐背叛王國的斷誓統帥。",
+  "giver": "herald",
+  "level": 58,
+  "prereq": "mq19",
+  "goal": {
+   "kind": "kill",
+   "monster": "fallen_commander",
+   "count": 1
+  },
+  "reward": {
+   "exp": 256953,
+   "gold": 20384,
+   "items": [
+    [
+     "q_sigil",
+     1
+    ],
+    [
+     "n_dawn",
+     1
+    ]
+   ]
+  }
+ },
+ "q_adv1": {
+  "name": "【轉職】監工試煉",
+  "desc": "擊敗礦坑監工證明你的實力，取得轉職之證。",
+  "giver": "mentor",
+  "level": 30,
+  "goal": {
+   "kind": "kill",
+   "monster": "mine_overseer",
+   "count": 1
+  },
+  "reward": {
+   "exp": 26385,
+   "gold": 5600,
+   "items": [
+    [
+     "q_proof1",
+     1
+    ]
+   ]
+  }
+ },
+ "q_adv2": {
+  "name": "【覺醒】典獄試煉",
+  "desc": "擊敗地下墓典獄長，取得覺醒之印。",
+  "giver": "mentor",
+  "level": 45,
+  "prereq": "q_adv1",
+  "goal": {
+   "kind": "kill",
+   "monster": "crypt_warden",
+   "count": 1
+  },
+  "reward": {
+   "exp": 54573,
+   "gold": 12350,
+   "items": [
+    [
+     "q_proof2",
+     1
+    ]
+   ]
+  }
+ },
+ "s_forest1": {
+  "name": "黏黏的苔球",
+  "desc": "擊敗 12 隻苔綠凝膠。",
+  "giver": "tamer",
+  "level": 9,
+  "goal": {
+   "kind": "kill",
+   "monster": "forest_jelly",
+   "count": 12
+  },
+  "reward": {
+   "exp": 4440,
+   "gold": 686,
+   "items": [
+    [
+     "p_hp",
+     10
+    ]
+   ]
+  }
+ },
+ "s_forest2": {
+  "name": "古樹皮",
+  "desc": "收集 8 片古樹皮做為工匠材料。",
+  "giver": "crafter",
+  "level": 15,
+  "goal": {
+   "kind": "collect",
+   "item": "m_bark",
+   "count": 8
+  },
+  "reward": {
+   "exp": 12900,
+   "gold": 1550,
+   "items": [
+    [
+     "m_leather",
+     3
+    ]
+   ]
+  }
+ },
+ "s_forest3": {
+  "name": "荊棘之患",
+  "desc": "擊敗 12 隻荊棘樹精。",
+  "giver": "armorer",
+  "level": 17,
+  "goal": {
+   "kind": "kill",
+   "monster": "thorn_treant",
+   "count": 12
+  },
+  "reward": {
+   "exp": 16632,
+   "gold": 1934,
+   "items": [
+    [
+     "b_spike",
+     1
+    ]
+   ]
+  }
+ },
+ "s_swamp1": {
+  "name": "腐泥研究",
+  "desc": "收集 8 團腐泥。",
+  "giver": "crafter",
+  "level": 18,
+  "goal": {
+   "kind": "collect",
+   "item": "m_mud",
+   "count": 8
+  },
+  "reward": {
+   "exp": 17070,
+   "gold": 2144,
+   "items": [
+    [
+     "p_iron",
+     2
+    ]
+   ]
+  }
+ },
+ "s_swamp2": {
+  "name": "沼地幽魂",
+  "desc": "擊敗 12 隻沼地幽魂。",
+  "giver": "morph_sage",
+  "level": 22,
+  "goal": {
+   "kind": "kill",
+   "monster": "marsh_wraith",
+   "count": 12
+  },
+  "reward": {
+   "exp": 17448,
+   "gold": 3104,
+   "items": [
+    [
+     "s_morph_wolf",
+     1
+    ]
+   ]
+  }
+ },
+ "s_swamp3": {
+  "name": "蟾母",
+  "desc": "討伐蟾母，保護沼澤的小生物。",
+  "giver": "tamer",
+  "level": 24,
+  "goal": {
+   "kind": "kill",
+   "monster": "toad_matriarch",
+   "count": 1
+  },
+  "reward": {
+   "exp": 21155,
+   "gold": 3656,
+   "items": [
+    [
+     "pet_toad",
+     1
+    ]
+   ]
+  }
+ },
+ "s_mine2a": {
+  "name": "黑鐵需求",
+  "desc": "收集 10 個黑鐵礦。",
+  "giver": "city_smith",
+  "level": 22,
+  "goal": {
+   "kind": "collect",
+   "item": "m_iron",
+   "count": 10
+  },
+  "reward": {
+   "exp": 29065,
+   "gold": 3104,
+   "items": [
+    [
+     "m_ingot",
+     2
+    ]
+   ]
+  }
+ },
+ "s_mine2b": {
+  "name": "深淵蝙蝠",
+  "desc": "擊敗 15 隻深淵蝙蝠。",
+  "giver": "bounty",
+  "level": 21,
+  "goal": {
+   "kind": "kill",
+   "monster": "deep_bat",
+   "count": 15
+  },
+  "reward": {
+   "exp": 20280,
+   "gold": 2846,
+   "items": [
+    [
+     "st_enh",
+     3
+    ]
+   ]
+  }
+ },
+ "s_mine3a": {
+  "name": "炎息之害",
+  "desc": "擊敗 15 隻炎息蝙蝠。",
+  "giver": "bounty",
+  "level": 29,
+  "goal": {
+   "kind": "kill",
+   "monster": "ember_bat",
+   "count": 15
+  },
+  "reward": {
+   "exp": 33390,
+   "gold": 5246,
+   "items": [
+    [
+     "p_brave",
+     2
+    ]
+   ]
+  }
+ },
+ "s_mine3b": {
+  "name": "鏽蝕鎧片",
+  "desc": "收集 10 片鏽蝕鎧片。",
+  "giver": "armorer",
+  "level": 33,
+  "goal": {
+   "kind": "collect",
+   "item": "m_rust",
+   "count": 10
+  },
+  "reward": {
+   "exp": 54349,
+   "gold": 6734,
+   "items": [
+    [
+     "h_steel",
+     1
+    ]
+   ]
+  }
+ },
+ "s_desert1": {
+  "name": "流沙凝膠",
+  "desc": "擊敗 15 隻流沙凝膠。",
+  "giver": "bounty",
+  "level": 30,
+  "goal": {
+   "kind": "kill",
+   "monster": "sand_jelly",
+   "count": 15
+  },
+  "reward": {
+   "exp": 35190,
+   "gold": 5600,
+   "items": [
+    [
+     "p_swift",
+     3
+    ]
+   ]
+  }
+ },
+ "s_desert2": {
+  "name": "蠍甲殼",
+  "desc": "收集 8 片蠍甲殼。",
+  "giver": "jeweler",
+  "level": 33,
+  "goal": {
+   "kind": "collect",
+   "item": "m_chitin",
+   "count": 8
+  },
+  "reward": {
+   "exp": 43479,
+   "gold": 6734,
+   "items": [
+    [
+     "r_sand",
+     1
+    ]
+   ]
+  }
+ },
+ "s_desert3": {
+  "name": "蠻兵討伐",
+  "desc": "擊敗 15 隻獠牙蠻兵。",
+  "giver": "city_smith",
+  "level": 41,
+  "goal": {
+   "kind": "kill",
+   "monster": "tusk_brute",
+   "count": 15
+  },
+  "reward": {
+   "exp": 76980,
+   "gold": 10286,
+   "items": [
+    [
+     "st_enh",
+     6
+    ]
+   ]
+  }
+ },
+ "s_crypt1": {
+  "name": "怨靈殘魂",
+  "desc": "收集 8 個怨靈殘魂。",
+  "giver": "morph_sage",
+  "level": 39,
+  "goal": {
+   "kind": "collect",
+   "item": "m_soul",
+   "count": 8
+  },
+  "reward": {
+   "exp": 56291,
+   "gold": 9326,
+   "items": [
+    [
+     "s_morph_knight",
+     1
+    ]
+   ]
+  }
+ },
+ "s_crypt2": {
+  "name": "屍魔",
+  "desc": "擊敗 15 隻屍魔。",
+  "giver": "bounty",
+  "level": 41,
+  "goal": {
+   "kind": "kill",
+   "monster": "ghoul_fiend",
+   "count": 15
+  },
+  "reward": {
+   "exp": 57030,
+   "gold": 10286,
+   "items": [
+    [
+     "p_hp3",
+     10
+    ]
+   ]
+  }
+ },
+ "s_crypt3": {
+  "name": "骨咒之書",
+  "desc": "收集 6 本骨咒之書。",
+  "giver": "morph_sage",
+  "level": 47,
+  "goal": {
+   "kind": "collect",
+   "item": "m_lichbook",
+   "count": 6
+  },
+  "reward": {
+   "exp": 56345,
+   "gold": 13454,
+   "items": [
+    [
+     "m_essence",
+     2
+    ]
+   ]
+  }
+ },
+ "s_crypt4": {
+  "name": "暗影魔",
+  "desc": "擊敗 15 隻暗影魔。",
+  "giver": "jeweler",
+  "level": 50,
+  "goal": {
+   "kind": "kill",
+   "monster": "shadow_fiend",
+   "count": 15
+  },
+  "reward": {
+   "exp": 77520,
+   "gold": 15200,
+   "items": [
+    [
+     "n_bone",
+     1
+    ]
+   ]
+  }
+ },
+ "s_peak1": {
+  "name": "尖峰雪怪",
+  "desc": "擊敗 15 隻尖峰雪怪。",
+  "giver": "armorer",
+  "level": 50,
+  "goal": {
+   "kind": "kill",
+   "monster": "peak_yeti",
+   "count": 15
+  },
+  "reward": {
+   "exp": 108510,
+   "gold": 15200,
+   "items": [
+    [
+     "b_storm",
+     1
+    ]
+   ]
+  }
+ },
+ "s_peak2": {
+  "name": "雷鳴核心",
+  "desc": "收集 8 個雷鳴核心。",
+  "giver": "jeweler",
+  "level": 52,
+  "goal": {
+   "kind": "collect",
+   "item": "m_stormcore",
+   "count": 8
+  },
+  "reward": {
+   "exp": 87850,
+   "gold": 16424,
+   "items": [
+    [
+     "r_storm",
+     1
+    ]
+   ]
+  }
+ },
+ "s_fort1": {
+  "name": "獠牙咒師",
+  "desc": "擊敗 15 隻獠牙咒師。",
+  "giver": "bounty",
+  "level": 53,
+  "goal": {
+   "kind": "kill",
+   "monster": "tusk_shaman",
+   "count": 15
+  },
+  "reward": {
+   "exp": 84810,
+   "gold": 17054,
+   "items": [
+    [
+     "st_guard",
+     1
+    ]
+   ]
+  }
+ },
+ "s_fort2": {
+  "name": "墮誓徽記",
+  "desc": "收集 10 枚墮誓徽記。",
+  "giver": "city_smith",
+  "level": 54,
+  "goal": {
+   "kind": "collect",
+   "item": "m_oath",
+   "count": 10
+  },
+  "reward": {
+   "exp": 116418,
+   "gold": 17696,
+   "items": [
+    [
+     "st_bless",
+     2
+    ]
+   ]
+  }
+ },
+ "s_fort3": {
+  "name": "獠牙督軍",
+  "desc": "討伐斷誓要塞的獠牙督軍。",
+  "giver": "herald",
+  "level": 58,
+  "goal": {
+   "kind": "kill",
+   "monster": "tusk_warlord",
+   "count": 1
+  },
+  "reward": {
+   "exp": 75105,
+   "gold": 20384,
+   "items": [
+    [
+     "h_king",
+     1
+    ]
+   ]
+  }
+ }
+}

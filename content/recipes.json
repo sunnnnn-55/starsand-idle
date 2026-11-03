@@ -1,0 +1,550 @@
+{
+ "r_leather": {
+  "out": "m_leather",
+  "qty": 1,
+  "mats": [
+   [
+    "m_pelt",
+    3
+   ]
+  ],
+  "gold": 50,
+  "level": 1
+ },
+ "r_ingot": {
+  "out": "m_ingot",
+  "qty": 1,
+  "mats": [
+   [
+    "m_ore",
+    3
+   ],
+   [
+    "m_iron",
+    2
+   ]
+  ],
+  "gold": 200,
+  "level": 15
+ },
+ "r_runecloth": {
+  "out": "m_runecloth",
+  "qty": 1,
+  "mats": [
+   [
+    "m_silk",
+    3
+   ],
+   [
+    "m_cloth",
+    2
+   ]
+  ],
+  "gold": 300,
+  "level": 25
+ },
+ "r_essence": {
+  "out": "m_essence",
+  "qty": 1,
+  "mats": [
+   [
+    "m_crystal",
+    1
+   ],
+   [
+    "m_ecto",
+    3
+   ],
+   [
+    "m_soul",
+    2
+   ]
+  ],
+  "gold": 1000,
+  "level": 30
+ },
+ "r_hp2": {
+  "out": "p_hp2",
+  "qty": 5,
+  "mats": [
+   [
+    "m_cap",
+    3
+   ],
+   [
+    "m_spore",
+    2
+   ]
+  ],
+  "gold": 50,
+  "level": 5
+ },
+ "r_hp3": {
+  "out": "p_hp3",
+  "qty": 5,
+  "mats": [
+   [
+    "m_rot",
+    3
+   ],
+   [
+    "m_gland",
+    2
+   ]
+  ],
+  "gold": 200,
+  "level": 20
+ },
+ "r_mp3": {
+  "out": "p_mp3",
+  "qty": 5,
+  "mats": [
+   [
+    "m_ecto",
+    2
+   ],
+   [
+    "m_moss",
+    3
+   ]
+  ],
+  "gold": 200,
+  "level": 20
+ },
+ "r_haste": {
+  "out": "p_haste",
+  "qty": 1,
+  "mats": [
+   [
+    "m_shade",
+    4
+   ],
+   [
+    "m_moss",
+    4
+   ]
+  ],
+  "gold": 150,
+  "level": 10
+ },
+ "r_brave": {
+  "out": "p_brave",
+  "qty": 1,
+  "mats": [
+   [
+    "m_brute",
+    3
+   ],
+   [
+    "m_flame",
+    2
+   ]
+  ],
+  "gold": 300,
+  "level": 30
+ },
+ "r_iron": {
+  "out": "p_iron",
+  "qty": 1,
+  "mats": [
+   [
+    "m_iron",
+    3
+   ],
+   [
+    "m_chitin",
+    2
+   ]
+  ],
+  "gold": 300,
+  "level": 25
+ },
+ "r_focus": {
+  "out": "p_focus",
+  "qty": 1,
+  "mats": [
+   [
+    "m_venom",
+    3
+   ],
+   [
+    "m_sting",
+    2
+   ]
+  ],
+  "gold": 400,
+  "level": 30
+ },
+ "r_swift": {
+  "out": "p_swift",
+  "qty": 1,
+  "mats": [
+   [
+    "m_deepwing",
+    3
+   ],
+   [
+    "m_wing",
+    3
+   ]
+  ],
+  "gold": 200,
+  "level": 20
+ },
+ "r_enh": {
+  "out": "st_enh",
+  "qty": 3,
+  "mats": [
+   [
+    "m_shard",
+    4
+   ],
+   [
+    "m_gem",
+    1
+   ]
+  ],
+  "gold": 300,
+  "level": 25
+ },
+ "r_bless": {
+  "out": "st_bless",
+  "qty": 1,
+  "mats": [
+   [
+    "m_essence",
+    2
+   ],
+   [
+    "m_crystal",
+    3
+   ],
+   [
+    "m_heartwood",
+    1
+   ]
+  ],
+  "gold": 5000,
+  "level": 30
+ },
+ "r_guard": {
+  "out": "st_guard",
+  "qty": 1,
+  "mats": [
+   [
+    "m_essence",
+    3
+   ],
+   [
+    "m_wardkey",
+    1
+   ]
+  ],
+  "gold": 20000,
+  "level": 45
+ },
+ "r_morph_wolf": {
+  "out": "s_morph_wolf",
+  "qty": 1,
+  "mats": [
+   [
+    "m_shade",
+    20
+   ],
+   [
+    "m_essence",
+    1
+   ]
+  ],
+  "gold": 1000,
+  "level": 15
+ },
+ "r_h_bone": {
+  "out": "h_bone",
+  "qty": 1,
+  "mats": [
+   [
+    "m_boneplate",
+    8
+   ],
+   [
+    "m_ingot",
+    3
+   ]
+  ],
+  "gold": 20000,
+  "level": 40
+ },
+ "r_r_void": {
+  "out": "r_void",
+  "qty": 1,
+  "mats": [
+   [
+    "m_voidgem",
+    6
+   ],
+   [
+    "m_essence",
+    2
+   ]
+  ],
+  "gold": 40000,
+  "level": 50
+ },
+ "r_n_storm": {
+  "out": "n_storm",
+  "qty": 1,
+  "mats": [
+   [
+    "m_stormcore",
+    6
+   ],
+   [
+    "m_essence",
+    2
+   ]
+  ],
+  "gold": 40000,
+  "level": 46
+ },
+ "r_w_sword6": {
+  "out": "w_sword6",
+  "qty": 1,
+  "mats": [
+   [
+    "m_ingot",
+    4
+   ],
+   [
+    "m_wyrm",
+    1
+   ],
+   [
+    "m_rust",
+    8
+   ]
+  ],
+  "gold": 30000,
+  "level": 30
+ },
+ "r_w_sword7": {
+  "out": "w_sword7",
+  "qty": 1,
+  "mats": [
+   [
+    "m_ingot",
+    8
+   ],
+   [
+    "m_bonecrown",
+    1
+   ],
+   [
+    "m_dread",
+    10
+   ]
+  ],
+  "gold": 120000,
+  "level": 44
+ },
+ "r_w_staff6": {
+  "out": "w_staff6",
+  "qty": 1,
+  "mats": [
+   [
+    "m_ingot",
+    4
+   ],
+   [
+    "m_wyrm",
+    1
+   ],
+   [
+    "m_rust",
+    8
+   ]
+  ],
+  "gold": 30000,
+  "level": 30
+ },
+ "r_w_staff7": {
+  "out": "w_staff7",
+  "qty": 1,
+  "mats": [
+   [
+    "m_ingot",
+    8
+   ],
+   [
+    "m_bonecrown",
+    1
+   ],
+   [
+    "m_dread",
+    10
+   ]
+  ],
+  "gold": 120000,
+  "level": 44
+ },
+ "r_w_bow6": {
+  "out": "w_bow6",
+  "qty": 1,
+  "mats": [
+   [
+    "m_ingot",
+    4
+   ],
+   [
+    "m_wyrm",
+    1
+   ],
+   [
+    "m_rust",
+    8
+   ]
+  ],
+  "gold": 30000,
+  "level": 30
+ },
+ "r_w_bow7": {
+  "out": "w_bow7",
+  "qty": 1,
+  "mats": [
+   [
+    "m_ingot",
+    8
+   ],
+   [
+    "m_bonecrown",
+    1
+   ],
+   [
+    "m_dread",
+    10
+   ]
+  ],
+  "gold": 120000,
+  "level": 44
+ },
+ "r_w_mace5": {
+  "out": "w_mace5",
+  "qty": 1,
+  "mats": [
+   [
+    "m_ingot",
+    4
+   ],
+   [
+    "m_wyrm",
+    1
+   ],
+   [
+    "m_rust",
+    8
+   ]
+  ],
+  "gold": 30000,
+  "level": 30
+ },
+ "r_w_mace7": {
+  "out": "w_mace7",
+  "qty": 1,
+  "mats": [
+   [
+    "m_ingot",
+    8
+   ],
+   [
+    "m_bonecrown",
+    1
+   ],
+   [
+    "m_dread",
+    10
+   ]
+  ],
+  "gold": 120000,
+  "level": 44
+ },
+ "r_w_dagger5": {
+  "out": "w_dagger5",
+  "qty": 1,
+  "mats": [
+   [
+    "m_ingot",
+    4
+   ],
+   [
+    "m_wyrm",
+    1
+   ],
+   [
+    "m_rust",
+    8
+   ]
+  ],
+  "gold": 30000,
+  "level": 30
+ },
+ "r_w_dagger7": {
+  "out": "w_dagger7",
+  "qty": 1,
+  "mats": [
+   [
+    "m_ingot",
+    8
+   ],
+   [
+    "m_bonecrown",
+    1
+   ],
+   [
+    "m_dread",
+    10
+   ]
+  ],
+  "gold": 120000,
+  "level": 44
+ },
+ "r_w_scythe5": {
+  "out": "w_scythe5",
+  "qty": 1,
+  "mats": [
+   [
+    "m_ingot",
+    4
+   ],
+   [
+    "m_wyrm",
+    1
+   ],
+   [
+    "m_rust",
+    8
+   ]
+  ],
+  "gold": 30000,
+  "level": 30
+ },
+ "r_w_scythe7": {
+  "out": "w_scythe7",
+  "qty": 1,
+  "mats": [
+   [
+    "m_ingot",
+    8
+   ],
+   [
+    "m_bonecrown",
+    1
+   ],
+   [
+    "m_dread",
+    10
+   ]
+  ],
+  "gold": 120000,
+  "level": 44
+ }
+}

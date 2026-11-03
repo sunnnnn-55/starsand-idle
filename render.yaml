@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: starsand-idle
+    runtime: node
+    plan: free
+    region: singapore
+    buildCommand: npm install --omit=dev --foreground-scripts
+    startCommand: node dist/server/server/index.js
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: TRUST_PROXY
+        value: "1"
+      - key: NODE_VERSION
+        value: "24"

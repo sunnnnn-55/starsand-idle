@@ -1,0 +1,47 @@
+{
+ "shroom": {
+  "name": "夜傘小菇",
+  "sprite": "mon_bloom_shroom~h200~s1.1~b0.9",
+  "size": 0.55,
+  "dmg": 0.06,
+  "desc": "會跟著你蹦蹦跳跳的小菇，偶爾幫忙撞一下敵人。",
+  "price": 3000
+ },
+ "toad": {
+  "name": "寶寶蟾",
+  "sprite": "mon_bog_toad",
+  "size": 0.55,
+  "dmg": 0.09,
+  "desc": "黏答答但很忠心，會吐舌攻擊。",
+  "price": 12000
+ },
+ "wolf": {
+  "name": "靈狼",
+  "sprite": "mon_plains_wolf~h-160~s0.8~b1.2",
+  "size": 0.7,
+  "dmg": 0.12,
+  "desc": "銀藍色的靈狼，攻擊敏捷。",
+  "price": 40000
+ },
+ "imp": {
+  "name": "小炎魔",
+  "sprite": "mon_fire_imp",
+  "size": 0.6,
+  "dmg": 0.15,
+  "desc": "愛惡作劇的小魔，會吐火球。"
+ },
+ "wisp": {
+  "name": "雷光靈",
+  "sprite": "mon_ice_wisp~h40~s1.6~b1.1",
+  "size": 0.6,
+  "dmg": 0.18,
+  "desc": "雷鳴尖峰的精魂，攻擊附帶電光。"
+ },
+ "wyvern": {
+  "name": "幼晶龍",
+  "sprite": "mon_slate_wyvern~h220~s1.2~b1.05",
+  "size": 0.5,
+  "dmg": 0.22,
+  "desc": "晶鱗飛龍的幼崽，最強的靈寵。"
+ }
+}

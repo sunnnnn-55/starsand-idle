@@ -1,0 +1,361 @@
+{
+ "warrior": {
+  "name": "鋼誓劍士",
+  "desc": "近戰坦克，生命與防禦最高，以範圍劍技壓制群敵。",
+  "hp": [
+   130,
+   24
+  ],
+  "mp": [
+   30,
+   3.5
+  ],
+  "atk": [
+   11,
+   2.6
+  ],
+  "def": [
+   6,
+   1.7
+  ],
+  "range": 1.6,
+  "attackMs": 950,
+  "speed": 3.6,
+  "dmgType": "phys",
+  "skills": [
+   "heavy_slash",
+   "whirlwind",
+   "war_cry",
+   "ground_slam",
+   "iron_will",
+   "titan_strike",
+   "blade_storm",
+   "guardian_oath",
+   "war_god",
+   "sky_splitter"
+  ],
+  "startItems": [
+   "w_sword0",
+   "a_war0"
+  ],
+  "weapon": "長劍",
+  "adv": [
+   {
+    "lv": 30,
+    "name": "鋼誓騎士長",
+    "desc": "以鋼鐵誓言守護同伴的劍之騎士。",
+    "mult": 1.12,
+    "item": "q_proof1",
+    "gold": 20000
+   },
+   {
+    "lv": 45,
+    "name": "破軍戰神",
+    "desc": "覺醒戰神之血，劍氣足以劈開天穹。",
+    "mult": 1.25,
+    "item": "q_proof2",
+    "gold": 120000
+   }
+  ]
+ },
+ "mage": {
+  "name": "星輝術師",
+  "desc": "遠程法術輸出，擁有治癒與強大的範圍魔法，但身板脆弱。",
+  "hp": [
+   85,
+   14
+  ],
+  "mp": [
+   90,
+   9
+  ],
+  "atk": [
+   13,
+   3
+  ],
+  "def": [
+   3,
+   1
+  ],
+  "range": 6.5,
+  "attackMs": 1150,
+  "speed": 3.4,
+  "dmgType": "magic",
+  "skills": [
+   "fireball",
+   "ice_lance",
+   "heal",
+   "thunder",
+   "frost_nova",
+   "meteor",
+   "star_chain",
+   "arcane_shield",
+   "absolute_zero",
+   "starfall"
+  ],
+  "startItems": [
+   "w_staff0",
+   "a_mag0"
+  ],
+  "projectile": "magic",
+  "weapon": "法杖",
+  "cast": true,
+  "adv": [
+   {
+    "lv": 30,
+    "name": "星輝大術師",
+    "desc": "掌握群星咒式的高階術師。",
+    "mult": 1.12,
+    "item": "q_proof1",
+    "gold": 20000
+   },
+   {
+    "lv": 45,
+    "name": "天穹星主",
+    "desc": "與天穹共鳴，能召喚星辰墜落。",
+    "mult": 1.25,
+    "item": "q_proof2",
+    "gold": 120000
+   }
+  ]
+ },
+ "archer": {
+  "name": "風語遊俠",
+  "desc": "遠程物理輸出，攻速快、暴擊高，擅長風箭與箭雨。",
+  "hp": [
+   100,
+   17
+  ],
+  "mp": [
+   50,
+   5.5
+  ],
+  "atk": [
+   11,
+   2.8
+  ],
+  "def": [
+   4,
+   1.25
+  ],
+  "range": 7,
+  "attackMs": 800,
+  "speed": 3.9,
+  "dmgType": "phys",
+  "skills": [
+   "power_shot",
+   "multi_shot",
+   "hawk_eye",
+   "poison_arrow",
+   "wind_step",
+   "arrow_rain",
+   "piercing_gale",
+   "eagle_spirit",
+   "storm_volley",
+   "star_hunter"
+  ],
+  "startItems": [
+   "w_bow0",
+   "a_arc0"
+  ],
+  "projectile": "arrow",
+  "weapon": "長弓",
+  "adv": [
+   {
+    "lv": 30,
+    "name": "風語神射手",
+    "desc": "與風靈締約，箭無虛發。",
+    "mult": 1.12,
+    "item": "q_proof1",
+    "gold": 20000
+   },
+   {
+    "lv": 45,
+    "name": "蒼穹獵星者",
+    "desc": "能射落流星的傳說獵手。",
+    "mult": 1.25,
+    "item": "q_proof2",
+    "gold": 120000
+   }
+  ]
+ },
+ "cleric": {
+  "name": "聖誓祭司",
+  "desc": "手持聖錘的前線祭司，能治癒隊友、施放聖光審判，耐打又能續戰。",
+  "hp": [
+   115,
+   20
+  ],
+  "mp": [
+   70,
+   7
+  ],
+  "atk": [
+   10,
+   2.5
+  ],
+  "def": [
+   5,
+   1.5
+  ],
+  "range": 1.7,
+  "attackMs": 1000,
+  "speed": 3.6,
+  "dmgType": "magic",
+  "skills": [
+   "holy_smite",
+   "mend",
+   "blessing",
+   "judgment",
+   "sanctuary",
+   "radiant_nova",
+   "divine_wrath",
+   "holy_aegis",
+   "dawn_hammer",
+   "eternal_light"
+  ],
+  "startItems": [
+   "w_mace0",
+   "a_cle0"
+  ],
+  "weapon": "聖錘",
+  "adv": [
+   {
+    "lv": 30,
+    "name": "曙光主教",
+    "desc": "受曙光加護的聖職領袖。",
+    "mult": 1.12,
+    "item": "q_proof1",
+    "gold": 20000
+   },
+   {
+    "lv": 45,
+    "name": "天輝聖使",
+    "desc": "化身天輝的使者，聖光永不熄滅。",
+    "mult": 1.25,
+    "item": "q_proof2",
+    "gold": 120000
+   }
+  ]
+ },
+ "rogue": {
+  "name": "影刃刺客",
+  "desc": "雙持短刃的近戰爆發職業，攻速最快、暴擊最高，擅長毒與暗殺。",
+  "hp": [
+   95,
+   16
+  ],
+  "mp": [
+   45,
+   5
+  ],
+  "atk": [
+   12,
+   2.9
+  ],
+  "def": [
+   3.5,
+   1.15
+  ],
+  "range": 1.5,
+  "attackMs": 680,
+  "speed": 4.1,
+  "dmgType": "phys",
+  "skills": [
+   "twin_strike",
+   "venom_blade",
+   "shadow_step",
+   "fan_of_knives",
+   "assassinate",
+   "smoke_veil",
+   "night_reaper",
+   "blood_frenzy",
+   "phantom_blades",
+   "death_mark"
+  ],
+  "startItems": [
+   "w_dagger0",
+   "a_rog0"
+  ],
+  "weapon": "雙刃",
+  "adv": [
+   {
+    "lv": 30,
+    "name": "夜幕暗殺者",
+    "desc": "潛行於夜幕中的頂尖刺客。",
+    "mult": 1.12,
+    "item": "q_proof1",
+    "gold": 20000
+   },
+   {
+    "lv": 45,
+    "name": "無影魅刃",
+    "desc": "刃快到連影子都追不上。",
+    "mult": 1.25,
+    "item": "q_proof2",
+    "gold": 120000
+   }
+  ]
+ },
+ "warlock": {
+  "name": "咒鐮術士",
+  "desc": "操縱詛咒與靈魂的遠程術士，以持續傷害與生命汲取消耗敵人。",
+  "hp": [
+   90,
+   15
+  ],
+  "mp": [
+   85,
+   8.5
+  ],
+  "atk": [
+   12,
+   2.9
+  ],
+  "def": [
+   3,
+   1.05
+  ],
+  "range": 6,
+  "attackMs": 1150,
+  "speed": 3.5,
+  "dmgType": "magic",
+  "skills": [
+   "soul_bolt",
+   "curse_rot",
+   "life_drain",
+   "dread_scythe",
+   "dark_pact",
+   "void_rift",
+   "plague_field",
+   "soul_harvest",
+   "abyss_gate",
+   "doom_sigil"
+  ],
+  "startItems": [
+   "w_scythe0",
+   "a_wlk0"
+  ],
+  "projectile": "magic",
+  "weapon": "咒鐮",
+  "cast": true,
+  "adv": [
+   {
+    "lv": 30,
+    "name": "冥咒魔導",
+    "desc": "與冥界簽下契約的咒術大師。",
+    "mult": 1.12,
+    "item": "q_proof1",
+    "gold": 20000
+   },
+   {
+    "lv": 45,
+    "name": "深淵咒主",
+    "desc": "支配深淵之力的咒術之主。",
+    "mult": 1.25,
+    "item": "q_proof2",
+    "gold": 120000
+   }
+  ]
+ }
+}
