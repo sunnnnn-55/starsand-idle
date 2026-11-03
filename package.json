@@ -1,6 +1,6 @@
 {
   "name": "starsand-idle",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "type": "module",
   "description": "星砂放置錄 — 原創等角視角放置型 MMORPG 原型",
